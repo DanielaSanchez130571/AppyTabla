@@ -2,10 +2,12 @@
     {
         "numero": "1",
         "col":"1",
+        "row":"1",
         "nombre": "H",
         "tag": "<html>",
         "grupo": "Documento",
-        "color": "azul claro",
+        "clasificacion": "interactivaC",
+        "color": "documento",
         "info": {
             "advertencia": "",
             "descripción": "El elemento `<html>` representa la raíz de un documento HTML.",
