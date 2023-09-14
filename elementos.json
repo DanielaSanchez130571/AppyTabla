@@ -6,7 +6,7 @@
         "nombre": "H",
         "tag": "<html>",
         "grupo": "Documento",
-        "clasificacion":"documentoC",
+        "clasificacion":".documentoC",
         "color": "#69C6E5",
         "info": {
             "advertencia": "",
