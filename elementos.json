@@ -22,7 +22,7 @@
         "nombre": "Hd",
         "tag": "<head>",
         "grupo": "Documento",
-        "color": "azul claro",
+        "color": "#69C6E5",
         "info": {
             "advertencia": "",
             "descripción": "El elemento HTML `<head>` provee información general (metadatos) acerca del documento, incluyendo su título y enlaces a scripts y hojas de estilos.",
@@ -37,7 +37,7 @@
         "nombre": "Bd",
         "tag": "<body>",
         "grupo": "Documento",
-        "color": "azul claro",
+        "color": "#69C6E5",
         "info": {
             "advertencia": "",
             "descripción": "El elemento <body> de HTML representa el contenido de un documento HTML. Solo puede haber un elemento <body> en un documento.",
@@ -52,7 +52,7 @@
         "nombre": "Ti",
         "tag": "<title>",
         "grupo": "Metadatos",
-        "color": "azul rey",
+        "color": "#0D88C1",
         "info": {
             "advertencia": "",
             "descripción": "El elemento <title> HTML define el título del documento que se muestra en un browser la barra de título o la pestaña de una página. Solo contiene texto; las etiquetas dentro del elemento se ignoran.",
@@ -67,7 +67,7 @@
         "nombre": "Bs",
         "tag": "<base>",
         "grupo": "Metadatos",
-        "color": "azul rey",
+        "color": "#0D88C1",
         "info": {
             "advertencia": "",
             "descripción": "El elemento HTML <base> especifica la dirección URL base que se utilizará para todas las direcciones URL relativas contenidas dentro de un documento. Sólo puede haber un elemento <base> en un documento.",
@@ -83,7 +83,7 @@
         "nombre": "Lk",
         "tag": "<link>",
         "grupo": "Metadatos",
-        "color": "azul rey",
+        "color": "#0D88C1",
         "info": {
             "advertencia": "",
             "descripción": "El elemento HTML <link> especifica la relación entre el documento actual y un recurso externo. Los usos posibles de este elemento incluyen la definición de un marco relacional para navegación. Este elemento es más frecuentemente usado para enlazar hojas de estilos.",
@@ -99,7 +99,7 @@
         "nombre":"Mt",
         "tag":"<meta>",
         "grupo":"Metadatos",
-        "color":"azul rey",
+        "color":"#0D88C1",
         "info":{
             "advertencia":"",
             "descripción":"Metainformación. Sirve para aportar información sobre el documento.",
@@ -114,7 +114,7 @@
         "nombre":"St",
         "tag":"<style>",
         "grupo":"Metadatos",
-        "color":"azul rey",
+        "color":"#0D88C1",
         "info":{
             "advertencia":"",
             "descripción":"Estilo. Es el elemento encargado de indicar la información de estilo.",
@@ -129,7 +129,7 @@
         "nombre":"Ol",
         "tag":"<ol>",
         "grupo":"Lista",
-        "color":"rosa-morado",
+        "color":"#CE58AE",
         "info":{
             "advertencia":"",
             "descripción":"El elemento ol permite definir listas o viñetas ordenadas ('Ordered List'), bien con numeración o alfabéticamente.",
@@ -143,7 +143,7 @@
         "nombre":"Ul",
         "tag":"<ul>",
         "grupo":"Lista",
-        "color":"rosa-morado",
+        "color":"#CE58AE",
         "info":{
             "advertencia":"",
             "descripción":"ul de 'unordered list' -lista no ordenada . crea una lista no ordenada.",
@@ -157,7 +157,7 @@
         "nombre":"Li",
         "tag":"<li>",
         "grupo":"Lista",
-        "color":"rosa-morado",
+        "color":"#CE58AE",
         "info":{
             "advertencia":"",
             "descripción":"El elemento li del ingles item list o elemento de lista declara cada uno de los elementos de una lista.",
@@ -171,7 +171,7 @@
         "nombre":"Dl",
         "tag":"<dl>",
         "grupo":"Lista",
-        "color":"rosa-morado",
+        "color":"#CE58AE",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <dl> representa una lista descriptiva. El elemento encierra una lista de grupos de términos (especificados con el uso del elemento <dt>) y de descripciones (proveídas con elementos <dd>). Algunos usos comunes para este elemento son implementar un glosario o para desplegar metadatos (lista de pares llave-valor).",
@@ -185,7 +185,7 @@
         "nombre":"Dt",
         "tag":"<dt>",
         "grupo":"Lista",
-        "color":"rosa-morado",
+        "color":"#CE58AE",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <dt> especifica un término en una descripción o lista de definiciones, y como tal debe utilizarse dentro de un elemento <dl> Es usualmente seguido por un elemento <dd>; sin embargo, múltiples elementos <dt> en un renglón indican diferentes términos los cuales todos son definidos por el siguiente elemento <dd>.",
@@ -199,7 +199,7 @@
         "nombre":"Dd",
         "tag":"<dd>",
         "grupo":"Lista",
-        "color":"rosa-morado",
+        "color":"#CE58AE",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <dd> provee detalles acerca de o la definición de un término precedente (<dt>) en una lista de descripciones (<dl>).",
@@ -213,7 +213,7 @@
         "nombre":"P",
         "tag":"<p>",
         "grupo":"Agrupación",
-        "color":"fucsia",
+        "color":"#BF058C",
         "info":{
             "advertencia":"",
             "descripción":"El elemento p (párrafo) es el apropiado para distribuir el texto en párrafos.",
@@ -227,7 +227,7 @@
         "nombre":"Hr",
         "tag":"<hr>",
         "grupo":"Agrupación",
-        "color":"fucsia",
+        "color":"#BF058C",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <hr> representa un cambio de tema entre párrafos (por ejemplo, un cambio de escena en una historia, un cambio de tema en una sección). En versiones previas de HTML representaba una línea horizontal. Aún puede ser representada como una línea horizontal en los navegadores visuales, pero ahora es definida en términos semánticos y no tanto en términos representativos, por tanto para dibujar una línea horizontal se debería usar el CSS apropiado.",
@@ -241,7 +241,7 @@
         "nombre":"Pre",
         "tag":"<pre>",
         "grupo":"Agrupación",
-        "color":"fucsia",
+        "color":"#BF058C",
         "info":{
             "advertencia":"",
             "descripción":"El Elemento HTML <pre> (o Texto HTML Preformateado) representa texto preformateado. El texto en este elemento típicamente se muestra en una fuente fija, no proporcional, exactamente como es mostrado en el archivo. Los espacios dentro de este elemento también son mostrados como están escritos.",
@@ -255,7 +255,7 @@
         "nombre":"Bq",
         "tag":"<blockquote>",
         "grupo":"Agrupación",
-        "color":"fucsia",
+        "color":"#BF058C",
         "info":{
             "advertencia":"",
             "descripción":"blockquote -cita en bloque . Crea citas en bloque, marca las citas a otros autores o documentos.",
@@ -269,7 +269,7 @@
         "nombre":"Fi",
         "tag":"<figure>",
         "grupo":"Agrupación",
-        "color":"fucsia",
+        "color":"#BF058C",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <figure> representa contenido independiente, a menudo con un título. Si bien se relaciona con el flujo principal, su posición es independiente de éste. Por lo general, se trata de una imagen, una ilustración, un diagrama, un fragmento de código, o un esquema al que se hace referencia en el texto principal, pero que se puede mover a otra página o a un apéndice sin que afecte al flujo principal.",
@@ -283,7 +283,7 @@
         "nombre":"Fc",
         "tag":"<figcaption>",
         "grupo":"Agrupación",
-        "color":"fucsia",
+        "color":"#BF058C",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <figcaption> representa un subtítulo o leyenda asociado al contenido del elemento padre <figure>, pudiendo ser colocado como primer o último hijo. Es importante destacar que el elemento <figcaption> es opcional.",
@@ -297,7 +297,7 @@
         "nombre":"Dv",
         "tag":"<div>",
         "grupo":"Agrupación",
-        "color":"fucsia",
+        "color":"#BF058C",
         "info":{
             "advertencia":"",
             "descripción":"div de 'division' -división . Sirve para crear secciones o agrupar contenidos.",
@@ -311,7 +311,7 @@
         "nombre":"Mn",
         "tag":"<main>",
         "grupo":"Agrupación",
-        "color":"fucsia",
+        "color":"#BF058C",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <main> representa el contenido principal del <body> de un documento o aplicación. El área principal del contenido consiste en el contenido que está directamente relacionado, o se expande sobre el tema central de un documento o la funcionalidad central de una aplicación. Este contenido debe ser único al documento, excluyendo cualquier contenido que se repita a través de un conjunto de documentos como barras laterales, enlaces de navegación, información de derechos de autor, logos del sitio y formularios de búsqueda (a menos, claro, que la función principal del documento sea un formulario de búsqueda).",
@@ -325,7 +325,7 @@
         "nombre":"A",
         "tag":"<a>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El Elemento HTML Anchor <a> crea un enlace a otras páginas de internet, archivos o ubicaciones dentro de la misma página, direcciones de correo, o cualquier otra URL.",
@@ -339,7 +339,7 @@
         "nombre":"Em",
         "tag":"<em>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <em> es el apropiado para marcar con énfasis las partes importantes de un texto. El elemento <em> puede ser anidado, con cada nivel de anidamiento indicando un mayor grado de énfasis.",
@@ -353,7 +353,7 @@
         "nombre":"Str",
         "tag":"<strong>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento strong es el apropiado para marcar con especial énfasis las partes más importantes de un texto.",
@@ -367,7 +367,7 @@
         "nombre":"Sm",
         "tag":"<small>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <small> hace el tamaño del texto una talla más pequeña (por ejemplo, de largo a mediano, o de pequeño a extra pequeño) que el tamaño mínimo de fuente del navegador. En HTML5, este elemento es reutilizado para representar comentarios laterales y letra pequeña, incluyendo derechos de autor y texto legal, independientemente de su estilo de presentación.",
@@ -381,7 +381,7 @@
         "nombre":"S",
         "tag":"<s>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"Muestra el texto tachado con una linea horizontal.",
@@ -395,7 +395,7 @@
         "nombre":"Ci",
         "tag":"<cite>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"cite -cita . Marca una referencia a una fuente, o el autor de un texto citado.",
@@ -409,7 +409,7 @@
         "nombre":"Q",
         "tag":"<q>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <q> indica que el texto adjunto es una cita corta en línea. La mayoría de los navegadores modernos implementan esto rodeando el texto entre comillas. Este elemento está destinado a citas breves que no requieren saltos de párrafo; para citas de bloque independiente, utiliza el elemento <blockquote>.",
@@ -423,7 +423,7 @@
         "nombre":"Dfn",
         "tag":"<dfn>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"Sirve para marcar el término que se quiere definir.",
@@ -437,7 +437,7 @@
         "nombre":"Ab",
         "tag":"<abbr>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <abbr> (o Elemento de Abreviación HTML) representa una abreviación o acrónimo; el atributo opcional title puede ampliar o describir la abreviatura. Si está presente, el atributo title debe contener la descripción completa y nada más.",
@@ -451,7 +451,7 @@
         "nombre":"Da",
         "tag":"<data>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El Elemento HTML <data> vincula un contenido dado con una traducción legible por una máquina. Si el contenido está relacionado con time- o date-, debe usarse el elemento <time>.",
@@ -465,7 +465,7 @@
         "nombre":"Tim",
         "tag":"<time>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <time> representa un periodo específico en el tiempo. Puede incluir el atributo datetime para convertir las fechas en un formato interno legible por un ordenador, permitiendo mejores resultados en los motores de búsqueda o características personalizadas como recordatorios.",
@@ -479,7 +479,7 @@
         "nombre":"Co",
         "tag":"<code>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <code> muestra su contenido con un estilo que pretende indicar que el texto es un breve fragmento de código informático. De forma predeterminada, el texto del contenido se muestra utilizando la fuente monoespaciada predeterminada del agente de usuario.",
@@ -493,7 +493,7 @@
         "nombre":"Va",
         "tag":"<var>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <var> representa el nombre de una variable en una expresión matemática o un contexto de programación. Por lo general, se presenta utilizando una versión en cursiva del tipo de letra actual, aunque ese comportamiento depende del navegador.",
@@ -507,7 +507,7 @@
         "nombre":"Sa",
         "tag":"<samp>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <samp> se utiliza para incluir texto en línea que representa una salida de muestra (o citada) de un programa de computadora. Su contenido normalmente se representa utilizando la fuente monoespaciada predeterminada del navegador (como Courier o Lucida Console).",
@@ -521,7 +521,7 @@
         "nombre":"Kb",
         "tag":"<kbd>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <kbd> representa un tramo de texto en línea que denota la entrada textual del usuario desde un teclado, entrada de voz o cualquier otro dispositivo de entrada de texto. Por convención, el agente de usuario muestra de forma predeterminada el contenido de un elemento <kbd> usando su fuente monoespaciada predeterminada, aunque esto no es obligatorio por el estándar HTML.",
@@ -535,7 +535,7 @@
         "nombre":"Sub",
         "tag":"<sub>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <sub> especifica texto en línea que debe mostrarse como subíndice únicamente por razones tipográficas. Los subíndices normalmente se representan con una línea base reducida utilizando texto más pequeño.",
@@ -549,7 +549,7 @@
         "nombre":"Sup",
         "tag":"<sup>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <sup> especifica texto en línea que se mostrará como superíndice únicamente por razones tipográficas. Los superíndices normalmente se representan con una línea base elevada utilizando texto más pequeño.",
@@ -563,7 +563,7 @@
         "nombre":"I",
         "tag":"<i>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <i> representa un rango de texto que se separa del texto normal por algún motivo, como texto idiomático, términos técnicos, designaciones taxonómicas, entre otros. Históricamente, estos se han presentado en cursiva, que es la fuente original de la denominación <i> de este elemento.",
@@ -577,7 +577,7 @@
         "nombre":"B",
         "tag":"<b>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <b> se utiliza para llamar la atención del lector sobre el contenido del elemento, al que de otro modo no se le concede especial importancia. Esto se conocía anteriormente como elemento Negrita y la mayoría de los navegadores todavía dibujan el texto en negrita. Sin embargo, no debes usar <b> para aplicar estilo al texto o otorgar importancia. Si desea crear texto en negrita, debe utilizar la propiedad de peso de fuente CSS. Si desea indicar que un elemento es de especial importancia, deberá utilizar el elemento <strong>.",
@@ -591,7 +591,7 @@
         "nombre":"U",
         "tag":"<u>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <u> representa un tramo de texto en línea que debe representarse de manera que indique que tiene una anotación no textual. Esto se representa de forma predeterminada como un subrayado sólido simple, pero se puede modificar usando CSS.",
@@ -605,7 +605,7 @@
         "nombre":"Mk",
         "tag":"<mark>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <mark> representa texto que está marcado o resaltado con fines de referencia o notación debido a la relevancia del pasaje marcado en el contexto adjunto.",
@@ -619,7 +619,7 @@
         "nombre":"Sp",
         "tag":"<span>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <span> es un contenedor en línea genérico para redactar contenido, que no representa nada inherentemente. Se puede usar para agrupar elementos con fines de estilo (usando los atributos de clase o id), o porque comparten valores de atributos, como lang. Sólo debe utilizarse cuando ningún otro elemento semántico sea apropiado. <span> es muy parecido a un elemento <div>, pero <div> es un elemento a nivel de bloque mientras que <span> es un elemento a nivel de línea.",
@@ -633,7 +633,7 @@
         "nombre":"Br",
         "tag":"<br>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <br> produce un salto de línea en el texto (retorno de carro). Es útil para escribir un poema o un discurso, donde la división de líneas es significativa.",
@@ -647,7 +647,7 @@
         "nombre":"Wbr",
         "tag":"<wbr>",
         "grupo":"Textual",
-        "color":"rosa mexicano",
+        "color":"#DE0063",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <wbr> representa una oportunidad de salto de palabra: una posición dentro del texto donde el navegador puede opcionalmente romper una línea, aunque sus reglas de salto de línea no crearían un salto en esa ubicación.",
@@ -661,7 +661,7 @@
         "nombre":"Img",
         "tag":"<img>",
         "grupo":"Multimedia",
-        "color":"salmón",
+        "color":"#FD6885",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <img> incrusta una imagen en el documento.",
@@ -675,7 +675,7 @@
         "nombre":"Pic",
         "tag":"<picture>",
         "grupo":"Multimedia",
-        "color":"salmón",
+        "color":"#FD6885",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <picture> contiene cero o más elementos <source> y un elemento <img> para ofrecer versiones alternativas de una imagen para diferentes escenarios de visualización/dispositivo. El navegador considerará cada elemento <source> secundario y elegirá la mejor coincidencia entre ellos. Si no se encuentran coincidencias, o el navegador no admite el elemento <picture>, se selecciona la URL del atributo src del elemento <img>. Luego, la imagen seleccionada se presenta en el espacio ocupado por el elemento <img>.",
@@ -689,7 +689,7 @@
         "nombre":"Ifr",
         "tag":"<iframe>",
         "grupo":"Multimedia",
-        "color":"salmón",
+        "color":"#FD6885",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <iframe> representa un contexto de navegación anidado, incrustando otra página HTML en la actual.",
@@ -703,7 +703,7 @@
         "nombre":"Emb",
         "tag":"<embed>",
         "grupo":"Multimedia",
-        "color":"salmón",
+        "color":"#FD6885",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <embed> incorpora contenido externo en el punto especificado del documento. Este contenido es proporcionado por una aplicación externa u otra fuente de contenido interactivo, como un complemento del navegador.",
@@ -717,7 +717,7 @@
         "nombre":"Obj",
         "tag":"<object>",
         "grupo":"Multimedia",
-        "color":"salmón",
+        "color":"#FD6885",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <object> representa un recurso externo, que puede tratarse como una imagen, un contexto de navegación anidado o un recurso para ser manejado por un complemento.",
@@ -731,7 +731,7 @@
         "nombre":"Par",
         "tag":"<param>",
         "grupo":"Multimedia",
-        "color":"salmón",
+        "color":"#FD6885",
         "info":{
             "advertencia":"En desuso: esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad.",
             "descripción":"The <param> HTML element defines parameters for an <object> element.",
@@ -745,7 +745,7 @@
         "nombre":"Vi",
         "tag":"<video>",
         "grupo":"Multimedia",
-        "color":"salmón",
+        "color":"#FD6885",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <video> incorpora un reproductor multimedia que admite la reproducción de vídeo en el documento. También puedes usar <video> para contenido de audio, pero el elemento <audio> puede proporcionar una experiencia de usuario más apropiada.",
@@ -759,7 +759,7 @@
         "nombre":"Au",
         "tag":"<audio>",
         "grupo":"Multimedia",
-        "color":"salmón",
+        "color":"#FD6885",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <audio> se utiliza para incrustar contenido de sonido en documentos. Puede contener una o más fuentes de audio, representadas mediante el atributo src o el elemento <source>: el navegador elegirá la más adecuada. También puede ser el destino de los medios transmitidos mediante streaming, utilizando un MediaStream.",
@@ -773,7 +773,7 @@
         "nombre":"Src",
         "tag":"<source>",
         "grupo":"Multimedia",
-        "color":"salmón",
+        "color":"#FD6885",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <source> especifica múltiples recursos multimedia para el elemento <picture>, <audio> o <video>. Es un elemento vacío, lo que significa que no tiene contenido y no tiene etiqueta de cierre. Se utiliza comúnmente para ofrecer el mismo contenido multimedia en múltiples formatos de archivo con el fin de brindar compatibilidad con una amplia gama de navegadores dada su diferente compatibilidad con formatos de archivos de imagen y formatos de archivos multimedia.",
@@ -787,7 +787,7 @@
         "nombre":"Trk",
         "tag":"<track>",
         "grupo":"Multimedia",
-        "color":"salmón",
+        "color":"#FD6885",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <track> se utiliza como hijo de los elementos multimedia <audio> y <video>. Le permite especificar pistas de texto cronometradas (o datos basados en el tiempo), por ejemplo, para manejar automáticamente los subtítulos. Las pistas están formateadas en formato WebVTT (archivos .vtt): pistas de texto de vídeo web.",
@@ -801,7 +801,7 @@
         "nombre":"Map",
         "tag":"<map>",
         "grupo":"Multimedia",
-        "color":"salmón",
+        "color":"#FD6885",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <map> se utiliza con elementos <area> para definir un mapa de imagen (un área de enlace en la que se puede hacer clic).",
@@ -815,7 +815,7 @@
         "nombre":"Ar",
         "tag":"<area>",
         "grupo":"Multimedia",
-        "color":"salmón",
+        "color":"#FD6885",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <area> define un área dentro de un mapa de imagen que tiene áreas predefinidas en las que se puede hacer clic. Un mapa de imagen permite asociar áreas geométricas de una imagen con enlaces de hipertexto. Este elemento se utiliza sólo dentro de un elemento <map>.",
@@ -829,7 +829,7 @@
         "nombre":"Tb",
         "tag":"<table>",
         "grupo":"Tablas",
-        "color":"naranja",
+        "color":"#FA8C33",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <table> representa datos tabulares, es decir, información presentada en una tabla bidimensional compuesta de filas y columnas de celdas que contienen datos.",
@@ -843,7 +843,7 @@
         "nombre":"Cap",
         "tag":"<caption>",
         "grupo":"Tablas",
-        "color":"naranja",
+        "color":"#FA8C33",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <caption> especifica el título (o título) de una tabla.",
@@ -857,7 +857,7 @@
         "nombre":"Cg",
         "tag":"<colgroup>",
         "grupo":"Tablas",
-        "color":"naranja",
+        "color":"#FA8C33",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <colgroup> define un grupo de columnas dentro de una tabla.",
@@ -871,7 +871,7 @@
         "nombre":"Col",
         "tag":"<col>",
         "grupo":"Tablas",
-        "color":"naranja",
+        "color":"#FA8C33",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <col> define una columna dentro de una tabla y se utiliza para definir la semántica común en todas las celdas comunes. Generalmente se encuentra dentro de un elemento <colgroup>.",
@@ -885,7 +885,7 @@
         "nombre":"Tbd",
         "tag":"<tbody>",
         "grupo":"Tablas",
-        "color":"naranja",
+        "color":"#FA8C33",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <tbody> encapsula un conjunto de filas de la tabla (elementos <tr>), lo que indica que constituyen el cuerpo de la tabla (<table>).",
@@ -899,7 +899,7 @@
         "nombre":"Thd",
         "tag":"<thead>",
         "grupo":"Tablas",
-        "color":"naranja",
+        "color":"#FA8C33",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <thead> define un conjunto de filas que definen el encabezado de las columnas de la tabla.",
@@ -913,7 +913,7 @@
         "nombre":"Tft",
         "tag":"<tfoot>",
         "grupo":"Tablas",
-        "color":"naranja",
+        "color":"#FA8C33",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <tfoot> define un conjunto de filas que resumen las columnas de la tabla.",
@@ -927,7 +927,7 @@
         "nombre":"Tr",
         "tag":"<tr>",
         "grupo":"Tablas",
-        "color":"naranja",
+        "color":"#FA8C33",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <tr> define una fila de celdas en una tabla. Luego, las celdas de la fila se pueden establecer usando una combinación de elementos <td> (celda de datos) y <th> (celda de encabezado).",
@@ -941,7 +941,7 @@
         "nombre":"Th",
         "tag":"<th>",
         "grupo":"Tablas",
-        "color":"naranja",
+        "color":"#FA8C33",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <th> define una celda como el encabezado de un grupo de celdas de una tabla. La naturaleza exacta de este grupo está definida por el alcance y los atributos de los encabezados.",
@@ -955,7 +955,7 @@
         "nombre":"Td",
         "tag":"<td>",
         "grupo":"Tablas",
-        "color":"naranja",
+        "color":"#FA8C33",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <td> define una celda de una tabla que contiene datos. Participa en el modelo de mesa.",
@@ -969,7 +969,7 @@
         "nombre":"Frm",
         "tag":"<form>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML form (<form>) representa una sección de un documento que contiene controles interactivos que permiten a un usuario enviar información a un servidor web. Es posible usar las pseudo-clasess de CSS :valid e :invalid para darle estilos a un elemento form.",
@@ -983,7 +983,7 @@
         "nombre":"Lab",
         "tag":"<label>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <label> representa un título para un elemento en una interfaz de usuario.",
@@ -997,7 +997,7 @@
         "nombre":"In",
         "tag":"<input>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <input> se utiliza para crear controles interactivos para formularios basados en web con el fin de aceptar datos del usuario; Hay disponible una amplia variedad de tipos de datos de entrada y widgets de control, según el dispositivo y el agente de usuario. El elemento <input> es uno de los más poderosos y complejos de todo HTML debido a la gran cantidad de combinaciones de tipos y atributos de entrada.",
@@ -1011,7 +1011,7 @@
         "nombre":"But",
         "tag":"<button>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <botón> es un elemento interactivo activado por un usuario con un mouse, teclado, dedo, comando de voz u otra tecnología de asistencia. Una vez activado, realiza una acción, como enviar un formulario o abrir un cuadro de diálogo. De forma predeterminada, los botones HTML se presentan en un estilo que se asemeja a la plataforma en la que se ejecuta el agente de usuario, pero puedes cambiar la apariencia de los botones con CSS.",
@@ -1025,7 +1025,7 @@
         "nombre":"Sel",
         "tag":"<select>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <select> representa un control que proporciona un menú de opciones.",
@@ -1039,7 +1039,7 @@
         "nombre":"Dtl",
         "tag":"<datalist>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <datalist> contiene un conjunto de elementos <option> que representan las opciones permitidas o recomendadas disponibles para elegir dentro de otros controles.",
@@ -1053,7 +1053,7 @@
         "nombre":"Og",
         "tag":"<optgroup>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <optgroup> crea una agrupación de opciones dentro de un elemento <select>.",
@@ -1067,7 +1067,7 @@
         "nombre":"O",
         "tag":"<option>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <option> se utiliza para definir un elemento contenido en un elemento <select>, <optgroup> o <datalist>. Como tal, <opción> puede representar elementos de menú en ventanas emergentes y otras listas de elementos en un documento HTML.",
@@ -1081,7 +1081,7 @@
         "nombre":"Ta",
         "tag":"<textarea>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <textarea> representa un control de edición de texto sin formato de varias líneas, útil cuando desea permitir a los usuarios ingresar una cantidad considerable de texto de formato libre, por ejemplo, un comentario en un formulario de revisión o comentarios.",
@@ -1095,7 +1095,7 @@
         "nombre":"Out",
         "tag":"<output>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <output> es un elemento contenedor en el que un sitio o aplicación puede inyectar los resultados de un cálculo o el resultado de una acción del usuario.",
@@ -1109,7 +1109,7 @@
         "nombre":"Prg",
         "tag":"<progress>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <progress> muestra un indicador que muestra el progreso de finalización de una tarea, generalmente mostrado como una barra de progreso.",
@@ -1123,7 +1123,7 @@
         "nombre":"Met",
         "tag":"<meter>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <meter> representa un valor escalar dentro de un rango conocido o un valor fraccionario.",
@@ -1137,7 +1137,7 @@
         "nombre":"Fs",
         "tag":"<fieldset>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <fieldset> se utiliza para agrupar varios controles así como etiquetas (<label>) dentro de un formulario web.",
@@ -1151,7 +1151,7 @@
         "nombre":"Le",
         "tag":"<legend>",
         "grupo":"formulario",
-        "color":"verde limón",
+        "color":"#B5CD2D",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <legend> representa un título para el contenido de su <fieldset> principal.",
@@ -1165,7 +1165,7 @@
         "nombre":"Sc",
         "tag":"<script>",
         "grupo":"scripting",
-        "color":"verde",
+        "color":"#098348",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <script> se utiliza para incrustar código o datos ejecutables; normalmente se utiliza para incrustar o hacer referencia a código JavaScript. El elemento <script> también se puede utilizar con otros lenguajes, como el lenguaje de programación de sombreadores GLSL de WebGL y JSON.",
@@ -1180,7 +1180,7 @@
         "nombre":"Nsc",
         "tag":"<noscript>",
         "grupo":"scripting",
-        "color":"verde",
+        "color":"#098348",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <noscript> define una sección de HTML que se insertará si un tipo de secuencia de comandos en la página no es compatible o si las secuencias de comandos están actualmente desactivadas en el navegador.",
@@ -1194,7 +1194,7 @@
         "nombre":"Tp",
         "tag":"<template>",
         "grupo":"scripting",
-        "color":"verde",
+        "color":"#098348",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <template> es un mecanismo para contener HTML que no debe representarse inmediatamente cuando se carga una página, pero que se puede crear una instancia posteriormente durante el tiempo de ejecución utilizando JavaScript. Piense en una plantilla como un fragmento de contenido que se almacena para su uso posterior en el documento. Si bien el analizador procesa el contenido del elemento <template> mientras carga la página, lo hace sólo para garantizar que ese contenido sea válido; Sin embargo, el contenido del elemento no se representa.",
@@ -1208,7 +1208,7 @@
         "nombre":"Sl",
         "tag":"<slot>",
         "grupo":"scripting",
-        "color":"verde",
+        "color":"#098348",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <slot> (parte del conjunto de tecnologías de componentes web) es un marcador de posición dentro de un componente web que puede completar con su propio marcado, lo que le permite crear árboles DOM separados y presentarlos juntos.",
@@ -1222,7 +1222,7 @@
         "nombre":"Cv",
         "tag":"<canvas>",
         "grupo":"scripting",
-        "color":"verde",
+        "color":"#098348",
         "info":{
             "advertencia":"",
             "descripción":"Utilice el elemento HTML <canvas> con la API de secuencias de comandos de lienzo o la API WebGL para dibujar gráficos y animaciones.",
@@ -1236,7 +1236,7 @@
         "nombre":"Det",
         "tag":"<details>",
         "grupo":"interactivas",
-        "color":"azul-verde",
+        "color":"#09CF9E",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <details> crea un widget de divulgación en el que la información es visible sólo cuando el widget se cambia a un estado 'abierto'. Se debe proporcionar un resumen o etiqueta utilizando el elemento <summary>. Un widget de divulgación generalmente se presenta en pantalla mediante un pequeño triángulo que gira (o gira) para indicar el estado abierto/cerrado, con una etiqueta al lado del triángulo. El contenido del elemento <summary> se utiliza como etiqueta para el widget de divulgación.",
@@ -1250,7 +1250,7 @@
         "nombre":"Sum",
         "tag":"<summary>",
         "grupo":"interactivas",
-        "color":"azul-verde",
+        "color":"#09CF9E",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <summary> especifica un resumen, título o leyenda para el cuadro de divulgación de un elemento <details>. Al hacer clic en el elemento <summary> se alterna el estado del elemento principal <details> abierto y cerrado.",
@@ -1264,7 +1264,7 @@
         "nombre":"Dia",
         "tag":"<dialog>",
         "grupo":"interactivas",
-        "color":"azul-verde",
+        "color":"#09CF9E",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <dialog> representa un cuadro de diálogo u otro componente interactivo, como una alerta, un inspector o una subventana descartables.",
@@ -1278,7 +1278,7 @@
         "nombre":"Art",
         "tag":"<article>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <article> representa una composición autónoma en un documento, página, aplicación o sitio, que está destinada a ser distribuible o reutilizable de forma independiente (por ejemplo, en sindicación). Los ejemplos incluyen: una publicación en un foro, un artículo de revista o periódico, una entrada de blog, una tarjeta de producto, un comentario enviado por un usuario, un widget o gadget interactivo o cualquier otro elemento de contenido independiente.",
@@ -1292,7 +1292,7 @@
         "nombre":"Sec",
         "tag":"<section>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <section> representa una sección genérica independiente de un documento, que no tiene un elemento semántico más específico para representarla. Las secciones siempre deben tener un título, con muy pocas excepciones.",
@@ -1306,7 +1306,7 @@
         "nombre":"Nav",
         "tag":"<nav>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <nav> representa una sección de una página cuyo propósito es proporcionar enlaces de navegación, ya sea dentro del documento actual o hacia otros documentos. Ejemplos comunes de secciones de navegación son menús, tablas de contenido e índices.",
@@ -1320,7 +1320,7 @@
         "nombre":"Hg",
         "tag":"<hgroup>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <hgroup> representa un encabezado y contenido relacionado. Agrupa un único elemento <h1>–<h6> con uno o más <p>.",
@@ -1334,7 +1334,7 @@
         "nombre":"H1",
         "tag":"<h1>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"Los elementos HTML <h1> a <h6> representan seis niveles de encabezados de sección. <h1> es el nivel de sección más alto y <h6> es el más bajo. De forma predeterminada, todos los elementos de encabezado crean un cuadro a nivel de bloque en el diseño, comenzando en una nueva línea y ocupando todo el ancho disponible en el bloque que los contiene.",
@@ -1348,7 +1348,7 @@
         "nombre":"H2",
         "tag":"<h2>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"Los elementos HTML <h1> a <h6> representan seis niveles de encabezados de sección. <h1> es el nivel de sección más alto y <h6> es el más bajo. De forma predeterminada, todos los elementos de encabezado crean un cuadro a nivel de bloque en el diseño, comenzando en una nueva línea y ocupando todo el ancho disponible en el bloque que los contiene.",
@@ -1362,7 +1362,7 @@
         "nombre":"H3",
         "tag":"<h3>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"Los elementos HTML <h1> a <h6> representan seis niveles de encabezados de sección. <h1> es el nivel de sección más alto y <h6> es el más bajo. De forma predeterminada, todos los elementos de encabezado crean un cuadro a nivel de bloque en el diseño, comenzando en una nueva línea y ocupando todo el ancho disponible en el bloque que los contiene.",
@@ -1376,7 +1376,7 @@
         "nombre":"H4",
         "tag":"<h4>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"Los elementos HTML <h1> a <h6> representan seis niveles de encabezados de sección. <h1> es el nivel de sección más alto y <h6> es el más bajo. De forma predeterminada, todos los elementos de encabezado crean un cuadro a nivel de bloque en el diseño, comenzando en una nueva línea y ocupando todo el ancho disponible en el bloque que los contiene.",
@@ -1390,7 +1390,7 @@
         "nombre":"H5",
         "tag":"<h5>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"Los elementos HTML <h1> a <h6> representan seis niveles de encabezados de sección. <h1> es el nivel de sección más alto y <h6> es el más bajo. De forma predeterminada, todos los elementos de encabezado crean un cuadro a nivel de bloque en el diseño, comenzando en una nueva línea y ocupando todo el ancho disponible en el bloque que los contiene.",
@@ -1404,7 +1404,7 @@
         "nombre":"H6",
         "tag":"<h6>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"Los elementos HTML <h1> a <h6> representan seis niveles de encabezados de sección. <h1> es el nivel de sección más alto y <h6> es el más bajo. De forma predeterminada, todos los elementos de encabezado crean un cuadro a nivel de bloque en el diseño, comenzando en una nueva línea y ocupando todo el ancho disponible en el bloque que los contiene.",
@@ -1418,7 +1418,7 @@
         "nombre":"Sr",
         "tag":"<search>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <search> es un contenedor que representa las partes del documento o aplicación con controles de formulario u otro contenido relacionado con la realización de una operación de búsqueda o filtrado. El elemento <search> identifica semánticamente que el propósito del contenido del elemento tiene capacidades de búsqueda o filtrado. La funcionalidad de búsqueda o filtrado puede ser para el sitio web o la aplicación, la página web o el documento actual, o todo Internet o una subsección del mismo.",
@@ -1432,7 +1432,7 @@
         "nombre":"Hdr",
         "tag":"<header>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <header> representa contenido introductorio, normalmente un grupo de ayudas introductorias o de navegación. Puede contener algunos elementos de encabezado pero también un logotipo, un formulario de búsqueda, el nombre del autor y otros elementos.",
@@ -1446,7 +1446,7 @@
         "nombre":"Ftr",
         "tag":"<footer>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <footer> representa un pie de página para el contenido de sección de su antecesor más cercano o el elemento raíz de sección. Un <pie de página> normalmente contiene información sobre el autor de la sección, datos de derechos de autor o enlaces a documentos relacionados.",
@@ -1460,7 +1460,7 @@
         "nombre":"Asd",
         "tag":"<aside>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <aside> representa una parte de un documento cuyo contenido está sólo indirectamente relacionado con el contenido principal del documento. Los apartes se presentan con frecuencia como barras laterales o cuadros de notas.",
@@ -1474,7 +1474,7 @@
         "nombre":"Add",
         "tag":"<address>",
         "grupo":"semánticas",
-        "color":"amarillo-naranja",
+        "color":"#F3B110",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <address> indica que el HTML adjunto proporciona información de contacto para una persona o personas, o para una organización.",
@@ -1488,7 +1488,7 @@
         "nombre":"Rub",
         "tag":"<ruby>",
         "grupo":"ideogramáticas",
-        "color":"marrón",
+        "color":"#CD7C3B",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <ruby> representa pequeñas anotaciones que se representan encima, debajo o al lado del texto base, generalmente utilizadas para mostrar la pronunciación de caracteres del este de Asia. También se puede utilizar para anotar otros tipos de texto, pero este uso es menos común. El término rubí se originó como una unidad de medida utilizada por los tipógrafos, que representa el tamaño más pequeño en el que se puede imprimir un texto en papel de periódico sin dejar de ser legible.",
@@ -1502,7 +1502,7 @@
         "nombre":"Rb",
         "tag":"<rb>",
         "grupo":"ideogramáticas",
-        "color":"marrón",
+        "color":"#CD7C3B",
         "info":{
             "advertencia":"En desuso: esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
             "descripción":"El elemento HTML <rb> se utiliza para delimitar el componente de texto base de una anotación <ruby>, es decir, el texto que se está anotando. Un elemento <rb> debe envolver cada segmento atómico separado del texto base.",
@@ -1516,7 +1516,7 @@
         "nombre":"Rt",
         "tag":"<rt>",
         "grupo":"ideogramáticas",
-        "color":"marrón",
+        "color":"#CD7C3B",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <rt> especifica el componente de texto Ruby de una anotación Ruby, que se utiliza para proporcionar información de pronunciación, traducción o transliteración para la tipografía de Asia Oriental. El elemento <rt> siempre debe estar contenido dentro de un elemento <ruby>.",
@@ -1530,7 +1530,7 @@
         "nombre":"Rtc",
         "tag":"<rtc>",
         "grupo":"ideogramáticas",
-        "color":"marrón",
+        "color":"#CD7C3B",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
             "descripción":"El elemento HTML <rtc> abarca anotaciones semánticas de caracteres presentados en un ruby de elementos <rb> utilizados dentro del elemento <ruby>. Los elementos <rb> pueden tener anotaciones tanto de pronunciación (<rt>) como semánticas (<rtc>).",
@@ -1544,7 +1544,7 @@
         "nombre":"Rp",
         "tag":"<rp>",
         "grupo":"ideogramáticas",
-        "color":"marrón",
+        "color":"#CD7C3B",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <rp> se utiliza para proporcionar paréntesis alternativos para los navegadores que no admiten la visualización de anotaciones Ruby utilizando el elemento <ruby>. Un elemento <rp> debe encerrar cada uno de los paréntesis de apertura y cierre que envuelven el elemento <rt> que contiene el texto de la anotación.",
@@ -1558,7 +1558,7 @@
         "nombre":"Bd",
         "tag":"<bdi>",
         "grupo":"ideogramáticas",
-        "color":"marrón",
+        "color":"#CD7C3B",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <bdi> le indica al algoritmo bidireccional del navegador que trate el texto que contiene de forma aislada del texto circundante. Es particularmente útil cuando un sitio web inserta texto dinámicamente y no conoce la direccionalidad del texto que se está insertando.",
@@ -1572,7 +1572,7 @@
         "nombre":"Bdo",
         "tag":"<bdo>",
         "grupo":"ideogramáticas",
-        "color":"marrón",
+        "color":"#CD7C3B",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <bdo> anula la direccionalidad actual del texto, de modo que el texto que contiene se representa en una dirección diferente.",
@@ -1586,7 +1586,7 @@
         "nombre":"Ins",
         "tag":"<ins>",
         "grupo":"edición",
-        "color":"nude",
+        "color":"#FDB18E",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <ins> representa un rango de texto que se ha agregado a un documento. Puede utilizar el elemento <del> para representar de manera similar un rango de texto que se ha eliminado del documento.",
@@ -1600,7 +1600,7 @@
         "nombre":"Del",
         "tag":"<del>",
         "grupo":"edición",
-        "color":"nude",
+        "color":"#FDB18E",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <del> representa un rango de texto que se ha eliminado de un documento. Esto se puede utilizar al representar 'cambios de seguimiento' o información de diferencias del código fuente, por ejemplo. El elemento <ins> se puede utilizar para el propósito opuesto: indicar texto que se ha agregado al documento.",
@@ -1614,7 +1614,7 @@
         "nombre":"Nob",
         "tag":"<noembed>",
         "grupo":"obsoletas",
-        "color":"morado-nude",
+        "color":"#B08D91",
         "info":{
             "advertencia":"",
             "descripción":"El elemento HTML <noembed> es una forma obsoleta y no estándar de proporcionar contenido alternativo o 'de reserva' para navegadores que no admiten el elemento <embed> o no admiten el tipo de contenido incrustado que un autor desea utilizar. Este elemento quedó obsoleto en HTML 4.01 y versiones posteriores a favor de colocar contenido alternativo entre las etiquetas de apertura y cierre de un elemento <object>.",
@@ -1628,7 +1628,7 @@
         "nombre":"Acr",
         "tag":"<acronym>",
         "grupo":"obsoletas",
-        "color":"morado-nude",
+        "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
             "descripción":"El elemento HTML <acronym> permite a los autores indicar claramente una secuencia de caracteres que componen un acrónimo o abreviatura de una palabra.",
@@ -1642,7 +1642,7 @@
         "nombre":"Fr",
         "tag":"<frame>",
         "grupo":"obsoletas",
-        "color":"morado-nude",
+        "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
             "descripción":"El elemento HTML <frame> define un área particular en la que se puede mostrar otro documento HTML. Se debe utilizar un marco dentro de un <frameset>. No se recomienda el uso del elemento <frame> debido a ciertas desventajas, como problemas de rendimiento y falta de accesibilidad para usuarios con lectores de pantalla. En lugar del elemento <frame>, puede preferirse <iframe>.",
@@ -1656,7 +1656,7 @@
         "nombre":"Frs",
         "tag":"<frameset>",
         "grupo":"obsoletas",
-        "color":"morado-nude",
+        "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
             "descripción":"El elemento HTML <frameset> se utiliza para contener elementos <frame>.",
@@ -1670,7 +1670,7 @@
         "nombre":"Nfr",
         "tag":"<noframes>",
         "grupo":"obsoletas",
-        "color":"morado-nude",
+        "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
             "descripción":"El elemento HTML <noframes> proporciona contenido que se presentará en navegadores que no admiten (o tienen soporte deshabilitado) el elemento <frame>. Aunque los navegadores más utilizados admiten marcos, existen excepciones, incluidos ciertos navegadores de uso especial, incluidos algunos navegadores móviles, así como navegadores en modo texto.Un elemento <noframes> puede contener cualquier elemento HTML permitido dentro del cuerpo de un documento HTML, excepto los elementos <frameset> y <frame>, ya que usar marcos cuando no son compatibles no tiene sentido.<noframes> se puede utilizar para presentar un mensaje que explique que el navegador del usuario no admite marcos, pero lo ideal sería utilizarlo para presentar una forma alternativa del sitio que no utilice marcos pero que aún ofrezca la misma funcionalidad o una similar.",
@@ -1684,7 +1684,7 @@
         "nombre":"Fnt",
         "tag":"<font>",
         "grupo":"obsoletas",
-        "color":"morado-nude",
+        "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
             "descripción":"El elemento HTML <font> define el tamaño, el color y el formato de la fuente de su contenido.",
@@ -1698,7 +1698,7 @@
         "nombre":"Big",
         "tag":"<big>",
         "grupo":"obsoletas",
-        "color":"morado-nude",
+        "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
             "descripción":"El elemento HTML <big> en desuso representa el texto adjunto con un tamaño de fuente un nivel más grande que el texto circundante (el tamaño mediano se vuelve grande, por ejemplo). El tamaño está limitado al tamaño de fuente máximo permitido por el navegador.",
@@ -1712,7 +1712,7 @@
         "nombre":"Dir",
         "tag":"<dir>",
         "grupo":"obsoletas",
-        "color":"morado-nude",
+        "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
             "descripción":"El elemento HTML <dir> se utiliza como contenedor para un directorio de archivos y/o carpetas, potencialmente con estilos e íconos aplicados por el agente de usuario. No utilice este elemento obsoleto; en su lugar, debería utilizar el elemento <ul> para listas, incluidas listas de archivos.",
@@ -1726,7 +1726,7 @@
         "nombre":"Cen",
         "tag":"<center>",
         "grupo":"obsoletas",
-        "color":"morado-nude",
+        "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
             "descripción":"El elemento HTML <center> es un elemento a nivel de bloque que muestra su contenido a nivel de bloque o en línea centrado horizontalmente dentro de su elemento contenedor. El contenedor suele ser, aunque no es obligatorio, <cuerpo>. Esta etiqueta ha quedado obsoleta en HTML 4 (y XHTML 1) en favor de la propiedad CSS text-align, que se puede aplicar al elemento <div> o a un <p> individual. Para centrar bloques, utilice otras propiedades CSS como margen izquierdo y margen derecho y configúrelas en automático (o establezca el margen en 0 automático).",
@@ -1740,7 +1740,7 @@
         "nombre":"Mrq",
         "tag":"<marquee>",
         "grupo":"obsoletas",
-        "color":"morado-nude",
+        "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
             "descripción":"El elemento HTML <marquee> se utiliza para insertar un área de texto de desplazamiento. Puedes controlar lo que sucede cuando el texto llega a los bordes de su área de contenido usando sus atributos.",
