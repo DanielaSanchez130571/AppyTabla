@@ -6,12 +6,7 @@
         "nombre": "H",
         "tag": "<html>",
         "grupo": "Documento",
-<<<<<<< HEAD
-        "color": "red",
-=======
-        "clasificacion": "interactivaC",
         "color": "#69C6E5",
->>>>>>> adc5bd52fd5d5624fa577c6009f4918913ad7367
         "info": {
             "advertencia": "",
             "descripción": "El elemento `<html>` representa la raíz de un documento HTML.",
