@@ -6,6 +6,7 @@
         "nombre": "H",
         "tag": "<html>",
         "grupo": "Documento",
+        "clasificacion":"documentoC",
         "color": "#69C6E5",
         "info": {
             "advertencia": "",
@@ -22,6 +23,7 @@
         "nombre": "Hd",
         "tag": "<head>",
         "grupo": "Documento",
+        "clasificacion":"documentoC",
         "color": "#69C6E5",
         "info": {
             "advertencia": "",
@@ -38,6 +40,7 @@
         "nombre": "Bd",
         "tag": "<body>",
         "grupo": "Documento",
+        "clasificacion":"documentoC",
         "color": "#69C6E5",
         "info": {
             "advertencia": "",
@@ -54,6 +57,7 @@
         "nombre": "Ti",
         "tag": "<title>",
         "grupo": "Metadatos",
+        "clasificacion":"metadatoC",
         "color": "#0D88C1",
         "info": {
             "advertencia": "",
@@ -70,6 +74,7 @@
         "nombre": "Bs",
         "tag": "<base>",
         "grupo": "Metadatos",
+        "clasificacion":"metadatoC",
         "color": "#0D88C1",
         "info": {
             "advertencia": "",
@@ -86,6 +91,7 @@
         "nombre": "Lk",
         "tag": "<link>",
         "grupo": "Metadatos",
+        "clasificacion":"metadatoC",
         "color": "#0D88C1",
         "info": {
             "advertencia": "",
@@ -102,6 +108,7 @@
         "nombre":"Mt",
         "tag":"<meta>",
         "grupo":"Metadatos",
+        "clasificacion":"metadatoC",
         "color":"#0D88C1",
         "info":{
             "advertencia":"",
@@ -118,6 +125,7 @@
         "nombre":"St",
         "tag":"<style>",
         "grupo":"Metadatos",
+        "clasificacion":"metadatoC",
         "color":"#0D88C1",
         "info":{
             "advertencia":"",
@@ -134,6 +142,7 @@
         "nombre":"Ol",
         "tag":"<ol>",
         "grupo":"Lista",
+        "clasificacion":"listaC",
         "color":"#CE58AE",
         "info":{
             "advertencia":"",
@@ -150,6 +159,7 @@
         "nombre":"Ul",
         "tag":"<ul>",
         "grupo":"Lista",
+        "clasificacion":"listaC",
         "color":"#CE58AE",
         "info":{
             "advertencia":"",
@@ -166,6 +176,7 @@
         "nombre":"Li",
         "tag":"<li>",
         "grupo":"Lista",
+        "clasificacion":"listaC",
         "color":"#CE58AE",
         "info":{
             "advertencia":"",
@@ -182,6 +193,7 @@
         "nombre":"Dl",
         "tag":"<dl>",
         "grupo":"Lista",
+        "clasificacion":"listaC",
         "color":"#CE58AE",
         "info":{
             "advertencia":"",
@@ -198,6 +210,7 @@
         "nombre":"Dt",
         "tag":"<dt>",
         "grupo":"Lista",
+        "clasificacion":"listaC",
         "color":"#CE58AE",
         "info":{
             "advertencia":"",
@@ -214,6 +227,7 @@
         "nombre":"Dd",
         "tag":"<dd>",
         "grupo":"Lista",
+        "clasificacion":"listaC",
         "color":"#CE58AE",
         "info":{
             "advertencia":"",
@@ -230,6 +244,7 @@
         "nombre":"P",
         "tag":"<p>",
         "grupo":"Agrupación",
+        "clasificacion":"agrupacionC",
         "color":"#BF058C",
         "info":{
             "advertencia":"",
@@ -246,6 +261,7 @@
         "nombre":"Hr",
         "tag":"<hr>",
         "grupo":"Agrupación",
+        "clasificacion":"agrupacionC",
         "color":"#BF058C",
         "info":{
             "advertencia":"",
@@ -262,6 +278,7 @@
         "nombre":"Pre",
         "tag":"<pre>",
         "grupo":"Agrupación",
+        "clasificacion":"agrupacionC",
         "color":"#BF058C",
         "info":{
             "advertencia":"",
@@ -278,6 +295,7 @@
         "nombre":"Bq",
         "tag":"<blockquote>",
         "grupo":"Agrupación",
+        "clasificacion":"agrupacionC",
         "color":"#BF058C",
         "info":{
             "advertencia":"",
@@ -294,6 +312,7 @@
         "nombre":"Fi",
         "tag":"<figure>",
         "grupo":"Agrupación",
+        "clasificacion":"agrupacionC",
         "color":"#BF058C",
         "info":{
             "advertencia":"",
@@ -310,6 +329,7 @@
         "nombre":"Fc",
         "tag":"<figcaption>",
         "grupo":"Agrupación",
+        "clasificacion":"agrupacionC",
         "color":"#BF058C",
         "info":{
             "advertencia":"",
@@ -326,6 +346,7 @@
         "nombre":"Dv",
         "tag":"<div>",
         "grupo":"Agrupación",
+        "clasificacion":"agrupacionC",
         "color":"#BF058C",
         "info":{
             "advertencia":"",
@@ -342,6 +363,7 @@
         "nombre":"Mn",
         "tag":"<main>",
         "grupo":"Agrupación",
+        "clasificacion":"agrupacionC",
         "color":"#BF058C",
         "info":{
             "advertencia":"",
@@ -358,6 +380,7 @@
         "nombre":"A",
         "tag":"<a>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -374,6 +397,7 @@
         "nombre":"Em",
         "tag":"<em>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -390,6 +414,7 @@
         "nombre":"Str",
         "tag":"<strong>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -406,6 +431,7 @@
         "nombre":"Sm",
         "tag":"<small>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -422,6 +448,7 @@
         "nombre":"S",
         "tag":"<s>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -438,6 +465,7 @@
         "nombre":"Ci",
         "tag":"<cite>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -454,6 +482,7 @@
         "nombre":"Q",
         "tag":"<q>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -470,6 +499,7 @@
         "nombre":"Dfn",
         "tag":"<dfn>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -486,6 +516,7 @@
         "nombre":"Ab",
         "tag":"<abbr>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -502,6 +533,7 @@
         "nombre":"Da",
         "tag":"<data>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -518,6 +550,7 @@
         "nombre":"Tim",
         "tag":"<time>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -534,6 +567,7 @@
         "nombre":"Co",
         "tag":"<code>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -550,6 +584,7 @@
         "nombre":"Va",
         "tag":"<var>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -566,6 +601,7 @@
         "nombre":"Sa",
         "tag":"<samp>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -582,6 +618,7 @@
         "nombre":"Kb",
         "tag":"<kbd>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -598,6 +635,7 @@
         "nombre":"Sub",
         "tag":"<sub>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -614,6 +652,7 @@
         "nombre":"Sup",
         "tag":"<sup>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -630,6 +669,7 @@
         "nombre":"I",
         "tag":"<i>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -646,6 +686,7 @@
         "nombre":"B",
         "tag":"<b>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -662,6 +703,7 @@
         "nombre":"U",
         "tag":"<u>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -678,6 +720,7 @@
         "nombre":"Mk",
         "tag":"<mark>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -694,6 +737,7 @@
         "nombre":"Sp",
         "tag":"<span>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -710,6 +754,7 @@
         "nombre":"Br",
         "tag":"<br>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -726,6 +771,7 @@
         "nombre":"Wbr",
         "tag":"<wbr>",
         "grupo":"Textual",
+        "clasificacion":"textualeC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -742,6 +788,7 @@
         "nombre":"Img",
         "tag":"<img>",
         "grupo":"Multimedia",
+        "clasificacion":"multimedicaC",
         "color":"#FD6885",
         "info":{
             "advertencia":"",
@@ -758,6 +805,7 @@
         "nombre":"Pic",
         "tag":"<picture>",
         "grupo":"Multimedia",
+        "clasificacion":"multimedicaC",
         "color":"#FD6885",
         "info":{
             "advertencia":"",
@@ -774,6 +822,7 @@
         "nombre":"Ifr",
         "tag":"<iframe>",
         "grupo":"Multimedia",
+        "clasificacion":"multimedicaC",
         "color":"#FD6885",
         "info":{
             "advertencia":"",
@@ -790,6 +839,7 @@
         "nombre":"Emb",
         "tag":"<embed>",
         "grupo":"Multimedia",
+        "clasificacion":"multimedicaC",
         "color":"#FD6885",
         "info":{
             "advertencia":"",
@@ -806,6 +856,7 @@
         "nombre":"Obj",
         "tag":"<object>",
         "grupo":"Multimedia",
+        "clasificacion":"multimedicaC",
         "color":"#FD6885",
         "info":{
             "advertencia":"",
@@ -822,6 +873,7 @@
         "nombre":"Par",
         "tag":"<param>",
         "grupo":"Multimedia",
+        "clasificacion":"multimedicaC",
         "color":"#FD6885",
         "info":{
             "advertencia":"En desuso: esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad.",
@@ -838,6 +890,7 @@
         "nombre":"Vi",
         "tag":"<video>",
         "grupo":"Multimedia",
+        "clasificacion":"multimedicaC",
         "color":"#FD6885",
         "info":{
             "advertencia":"",
@@ -854,6 +907,7 @@
         "nombre":"Au",
         "tag":"<audio>",
         "grupo":"Multimedia",
+        "clasificacion":"multimedicaC",
         "color":"#FD6885",
         "info":{
             "advertencia":"",
@@ -870,6 +924,7 @@
         "nombre":"Src",
         "tag":"<source>",
         "grupo":"Multimedia",
+        "clasificacion":"multimedicaC",
         "color":"#FD6885",
         "info":{
             "advertencia":"",
@@ -886,6 +941,7 @@
         "nombre":"Trk",
         "tag":"<track>",
         "grupo":"Multimedia",
+        "clasificacion":"multimedicaC",
         "color":"#FD6885",
         "info":{
             "advertencia":"",
@@ -902,6 +958,7 @@
         "nombre":"Map",
         "tag":"<map>",
         "grupo":"Multimedia",
+        "clasificacion":"multimedicaC",
         "color":"#FD6885",
         "info":{
             "advertencia":"",
@@ -918,6 +975,7 @@
         "nombre":"Ar",
         "tag":"<area>",
         "grupo":"Multimedia",
+        "clasificacion":"multimedicaC",
         "color":"#FD6885",
         "info":{
             "advertencia":"",
@@ -934,6 +992,7 @@
         "nombre":"Tb",
         "tag":"<table>",
         "grupo":"Tablas",
+        "clasificacion":"tablaC",
         "color":"#FA8C33",
         "info":{
             "advertencia":"",
@@ -950,6 +1009,7 @@
         "nombre":"Cap",
         "tag":"<caption>",
         "grupo":"Tablas",
+        "clasificacion":"tablaC",
         "color":"#FA8C33",
         "info":{
             "advertencia":"",
@@ -966,6 +1026,7 @@
         "nombre":"Cg",
         "tag":"<colgroup>",
         "grupo":"Tablas",
+        "clasificacion":"tablaC",
         "color":"#FA8C33",
         "info":{
             "advertencia":"",
@@ -982,6 +1043,7 @@
         "nombre":"Col",
         "tag":"<col>",
         "grupo":"Tablas",
+        "clasificacion":"tablaC",
         "color":"#FA8C33",
         "info":{
             "advertencia":"",
@@ -998,6 +1060,7 @@
         "nombre":"Tbd",
         "tag":"<tbody>",
         "grupo":"Tablas",
+        "clasificacion":"tablaC",
         "color":"#FA8C33",
         "info":{
             "advertencia":"",
@@ -1014,6 +1077,7 @@
         "nombre":"Thd",
         "tag":"<thead>",
         "grupo":"Tablas",
+        "clasificacion":"tablaC",
         "color":"#FA8C33",
         "info":{
             "advertencia":"",
@@ -1030,6 +1094,7 @@
         "nombre":"Tft",
         "tag":"<tfoot>",
         "grupo":"Tablas",
+        "clasificacion":"tablaC",
         "color":"#FA8C33",
         "info":{
             "advertencia":"",
@@ -1046,6 +1111,7 @@
         "nombre":"Tr",
         "tag":"<tr>",
         "grupo":"Tablas",
+        "clasificacion":"tablaC",
         "color":"#FA8C33",
         "info":{
             "advertencia":"",
@@ -1062,6 +1128,7 @@
         "nombre":"Th",
         "tag":"<th>",
         "grupo":"Tablas",
+        "clasificacion":"tablaC",
         "color":"#FA8C33",
         "info":{
             "advertencia":"",
@@ -1078,6 +1145,7 @@
         "nombre":"Td",
         "tag":"<td>",
         "grupo":"Tablas",
+        "clasificacion":"tablaC",
         "color":"#FA8C33",
         "info":{
             "advertencia":"",
@@ -1094,6 +1162,7 @@
         "nombre":"Frm",
         "tag":"<form>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1110,6 +1179,7 @@
         "nombre":"Lab",
         "tag":"<label>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1126,6 +1196,7 @@
         "nombre":"In",
         "tag":"<input>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1142,6 +1213,7 @@
         "nombre":"But",
         "tag":"<button>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1158,6 +1230,7 @@
         "nombre":"Sel",
         "tag":"<select>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1174,6 +1247,7 @@
         "nombre":"Dtl",
         "tag":"<datalist>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1190,6 +1264,7 @@
         "nombre":"Og",
         "tag":"<optgroup>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1206,6 +1281,7 @@
         "nombre":"O",
         "tag":"<option>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1222,6 +1298,7 @@
         "nombre":"Ta",
         "tag":"<textarea>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1238,6 +1315,7 @@
         "nombre":"Out",
         "tag":"<output>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1254,6 +1332,7 @@
         "nombre":"Prg",
         "tag":"<progress>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1270,6 +1349,7 @@
         "nombre":"Met",
         "tag":"<meter>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1286,6 +1366,7 @@
         "nombre":"Fs",
         "tag":"<fieldset>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1302,6 +1383,7 @@
         "nombre":"Le",
         "tag":"<legend>",
         "grupo":"formulario",
+        "clasificacion":"formularioC",
         "color":"#B5CD2D",
         "info":{
             "advertencia":"",
@@ -1318,6 +1400,7 @@
         "nombre":"Sc",
         "tag":"<script>",
         "grupo":"scripting",
+        "clasificacion":"scriptingC",
         "color":"#098348",
         "info":{
             "advertencia":"",
@@ -1335,6 +1418,7 @@
         "nombre":"Nsc",
         "tag":"<noscript>",
         "grupo":"scripting",
+        "clasificacion":"scriptingC",
         "color":"#098348",
         "info":{
             "advertencia":"",
@@ -1351,6 +1435,7 @@
         "nombre":"Tp",
         "tag":"<template>",
         "grupo":"scripting",
+        "clasificacion":"scriptingC",
         "color":"#098348",
         "info":{
             "advertencia":"",
@@ -1367,6 +1452,7 @@
         "nombre":"Sl",
         "tag":"<slot>",
         "grupo":"scripting",
+        "clasificacion":"scriptingC",
         "color":"#098348",
         "info":{
             "advertencia":"",
@@ -1383,6 +1469,7 @@
         "nombre":"Cv",
         "tag":"<canvas>",
         "grupo":"scripting",
+        "clasificacion":"scriptingC",
         "color":"#098348",
         "info":{
             "advertencia":"",
@@ -1399,6 +1486,7 @@
         "nombre":"Det",
         "tag":"<details>",
         "grupo":"interactivas",
+        "clasificacion":"interactivaC",
         "color":"#09CF9E",
         "info":{
             "advertencia":"",
@@ -1415,6 +1503,7 @@
         "nombre":"Sum",
         "tag":"<summary>",
         "grupo":"interactivas",
+        "clasificacion":"interactivaC",
         "color":"#09CF9E",
         "info":{
             "advertencia":"",
@@ -1431,6 +1520,7 @@
         "nombre":"Dia",
         "tag":"<dialog>",
         "grupo":"interactivas",
+        "clasificacion":"interactivaC",
         "color":"#09CF9E",
         "info":{
             "advertencia":"",
@@ -1447,6 +1537,7 @@
         "nombre":"Art",
         "tag":"<article>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1463,6 +1554,7 @@
         "nombre":"Sec",
         "tag":"<section>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1479,6 +1571,7 @@
         "nombre":"Nav",
         "tag":"<nav>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1495,6 +1588,7 @@
         "nombre":"Hg",
         "tag":"<hgroup>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1511,6 +1605,7 @@
         "nombre":"H1",
         "tag":"<h1>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1527,6 +1622,7 @@
         "nombre":"H2",
         "tag":"<h2>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1543,6 +1639,7 @@
         "nombre":"H3",
         "tag":"<h3>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1559,6 +1656,7 @@
         "nombre":"H4",
         "tag":"<h4>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1575,6 +1673,7 @@
         "nombre":"H5",
         "tag":"<h5>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1591,6 +1690,7 @@
         "nombre":"H6",
         "tag":"<h6>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1607,6 +1707,7 @@
         "nombre":"Sr",
         "tag":"<search>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1623,6 +1724,7 @@
         "nombre":"Hdr",
         "tag":"<header>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1639,6 +1741,7 @@
         "nombre":"Ftr",
         "tag":"<footer>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1655,6 +1758,7 @@
         "nombre":"Asd",
         "tag":"<aside>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1671,6 +1775,7 @@
         "nombre":"Add",
         "tag":"<address>",
         "grupo":"semánticas",
+        "clasificacion":"semanticaC",
         "color":"#F3B110",
         "info":{
             "advertencia":"",
@@ -1687,6 +1792,7 @@
         "nombre":"Rub",
         "tag":"<ruby>",
         "grupo":"ideogramáticas",
+        "clasificacion":"semanticaC",
         "color":"#CD7C3B",
         "info":{
             "advertencia":"",
@@ -1703,6 +1809,7 @@
         "nombre":"Rb",
         "tag":"<rb>",
         "grupo":"ideogramáticas",
+        "clasificacion":"ideograficaC",
         "color":"#CD7C3B",
         "info":{
             "advertencia":"En desuso: esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
@@ -1719,6 +1826,7 @@
         "nombre":"Rt",
         "tag":"<rt>",
         "grupo":"ideogramáticas",
+        "clasificacion":"ideograficaC",
         "color":"#CD7C3B",
         "info":{
             "advertencia":"",
@@ -1735,6 +1843,7 @@
         "nombre":"Rtc",
         "tag":"<rtc>",
         "grupo":"ideogramáticas",
+        "clasificacion":"ideograficaC",
         "color":"#CD7C3B",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
@@ -1751,6 +1860,7 @@
         "nombre":"Rp",
         "tag":"<rp>",
         "grupo":"ideogramáticas",
+        "clasificacion":"ideograficaC",
         "color":"#CD7C3B",
         "info":{
             "advertencia":"",
@@ -1767,6 +1877,7 @@
         "nombre":"Bd",
         "tag":"<bdi>",
         "grupo":"ideogramáticas",
+        "clasificacion":"ideograficaC",
         "color":"#CD7C3B",
         "info":{
             "advertencia":"",
@@ -1783,6 +1894,7 @@
         "nombre":"Bdo",
         "tag":"<bdo>",
         "grupo":"ideogramáticas",
+        "clasificacion":"ideograficaC",
         "color":"#CD7C3B",
         "info":{
             "advertencia":"",
@@ -1799,6 +1911,7 @@
         "nombre":"Ins",
         "tag":"<ins>",
         "grupo":"edición",
+        "clasificacion":"edicioneC",
         "color":"#FDB18E",
         "info":{
             "advertencia":"",
@@ -1815,6 +1928,7 @@
         "nombre":"Del",
         "tag":"<del>",
         "grupo":"edición",
+        "clasificacion":"edicioneC",
         "color":"#FDB18E",
         "info":{
             "advertencia":"",
@@ -1831,6 +1945,7 @@
         "nombre":"Nob",
         "tag":"<noembed>",
         "grupo":"obsoletas",
+        "clasificacion":"obsoletaC",
         "color":"#B08D91",
         "info":{
             "advertencia":"",
@@ -1847,6 +1962,7 @@
         "nombre":"Acr",
         "tag":"<acronym>",
         "grupo":"obsoletas",
+        "clasificacion":"obsoletaC",
         "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
@@ -1863,6 +1979,7 @@
         "nombre":"Fr",
         "tag":"<frame>",
         "grupo":"obsoletas",
+        "clasificacion":"obsoletaC",
         "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
@@ -1879,6 +1996,7 @@
         "nombre":"Frs",
         "tag":"<frameset>",
         "grupo":"obsoletas",
+        "clasificacion":"obsoletaC",
         "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
@@ -1895,6 +2013,7 @@
         "nombre":"Nfr",
         "tag":"<noframes>",
         "grupo":"obsoletas",
+        "clasificacion":"obsoletaC",
         "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
@@ -1911,6 +2030,7 @@
         "nombre":"Fnt",
         "tag":"<font>",
         "grupo":"obsoletas",
+        "clasificacion":"obsoletaC",
         "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
@@ -1927,6 +2047,7 @@
         "nombre":"Big",
         "tag":"<big>",
         "grupo":"obsoletas",
+        "clasificacion":"obsoletaC",
         "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
@@ -1943,6 +2064,7 @@
         "nombre":"Dir",
         "tag":"<dir>",
         "grupo":"obsoletas",
+        "clasificacion":"obsoletaC",
         "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
@@ -1959,6 +2081,7 @@
         "nombre":"Cen",
         "tag":"<center>",
         "grupo":"obsoletas",
+        "clasificacion":"obsoletaC",
         "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
@@ -1975,6 +2098,7 @@
         "nombre":"Mrq",
         "tag":"<marquee>",
         "grupo":"obsoletas",
+        "clasificacion":"obsoletaC",
         "color":"#B08D91",
         "info":{
             "advertencia":"Esta característica ya no se recomienda. Aunque es posible que algunos navegadores aún lo admitan, es posible que ya se haya eliminado de los estándares web relevantes, que esté en proceso de eliminarse o que solo se conserve por motivos de compatibilidad. Evite usarlo y actualice el código existente si es posible; consulte la tabla de compatibilidad al final de esta página para guiar su decisión. Tenga en cuenta que esta función puede dejar de funcionar en cualquier momento.",
