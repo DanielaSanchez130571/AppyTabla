@@ -7,7 +7,7 @@
         "tag": "<html>",
         "grupo": "Documento",
         "clasificacion": "interactivaC",
-        "color": "documento",
+        "color": "#69C6E5",
         "info": {
             "advertencia": "",
             "descripción": "El elemento `<html>` representa la raíz de un documento HTML.",
