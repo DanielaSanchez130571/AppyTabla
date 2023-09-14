@@ -6,7 +6,6 @@
         "nombre": "H",
         "tag": "<html>",
         "grupo": "Documento",
-        "clasificacion": "interactivaC",
         "color": "red",
         "info": {
             "advertencia": "",
@@ -18,7 +17,8 @@
     },
     {
         "numero": "2",
-        "col":"2",
+        "col":"1",
+        "row":"2",
         "nombre": "Hd",
         "tag": "<head>",
         "grupo": "Documento",
@@ -33,7 +33,8 @@
     },
     {
         "numero": "3",
-        "col":"3",
+        "col":"1",
+        "row":"3",
         "nombre": "Bd",
         "tag": "<body>",
         "grupo": "Documento",
@@ -48,7 +49,8 @@
     },
     {
         "numero": "4",
-        "col":"4",
+        "col":"1",
+        "row":"4",
         "nombre": "Ti",
         "tag": "<title>",
         "grupo": "Metadatos",
@@ -63,7 +65,8 @@
     },
     {
         "numero": "5",
-        "col":"5",
+        "col":"1",
+        "row":"5",
         "nombre": "Bs",
         "tag": "<base>",
         "grupo": "Metadatos",
@@ -78,8 +81,8 @@
     },
     {
         "numero": "6",
-        "col":"2",
-        "row":"2",
+        "col":"1",
+        "row":"6",
         "nombre": "Lk",
         "tag": "<link>",
         "grupo": "Metadatos",
@@ -94,8 +97,8 @@
     },
     {
         "numero": "7",
-        "col":"8",
-        "row":"1",
+        "col":"1",
+        "row":"7",
         "nombre":"Mt",
         "tag":"<meta>",
         "grupo":"Metadatos",
@@ -110,7 +113,8 @@
     },
     {
         "numero": "8",
-        "col":"9",
+        "col":"2",
+        "row":"2",
         "nombre":"St",
         "tag":"<style>",
         "grupo":"Metadatos",
@@ -125,7 +129,8 @@
     },
     {
         "numero": "9",
-        "col":"10",
+        "col":"2",
+        "row":"3",
         "nombre":"Ol",
         "tag":"<ol>",
         "grupo":"Lista",
@@ -140,6 +145,8 @@
     },
     {
         "numero": "10",
+        "col":"2",
+        "row":"4",
         "nombre":"Ul",
         "tag":"<ul>",
         "grupo":"Lista",
@@ -154,6 +161,8 @@
     },
     {
         "numero": "11",
+        "col":"2",
+        "row":"5",
         "nombre":"Li",
         "tag":"<li>",
         "grupo":"Lista",
@@ -168,6 +177,8 @@
     },
     {
         "numero": "12",
+        "col":"2",
+        "row":"6",
         "nombre":"Dl",
         "tag":"<dl>",
         "grupo":"Lista",
@@ -182,6 +193,8 @@
     },
     {
         "numero": "13",
+        "col":"2",
+        "row":"7",
         "nombre":"Dt",
         "tag":"<dt>",
         "grupo":"Lista",
@@ -196,6 +209,8 @@
     },
     {
         "numero": "14",
+        "col":"3",
+        "row":"4",
         "nombre":"Dd",
         "tag":"<dd>",
         "grupo":"Lista",
@@ -210,6 +225,8 @@
     },
     {
         "numero": "15",
+        "col":"3",
+        "row":"5",
         "nombre":"P",
         "tag":"<p>",
         "grupo":"Agrupación",
@@ -224,6 +241,8 @@
     },
     {
         "numero": "16",
+        "col":"3",
+        "row":"6",
         "nombre":"Hr",
         "tag":"<hr>",
         "grupo":"Agrupación",
@@ -238,6 +257,8 @@
     },
     {
         "numero": "17",
+        "col":"3",
+        "row":"7",
         "nombre":"Pre",
         "tag":"<pre>",
         "grupo":"Agrupación",
@@ -252,6 +273,8 @@
     },
     {
         "numero": "18",
+        "col":"4",
+        "row":"4",
         "nombre":"Bq",
         "tag":"<blockquote>",
         "grupo":"Agrupación",
@@ -266,6 +289,8 @@
     },
     {
         "numero": "19",
+        "col":"4",
+        "row":"5",
         "nombre":"Fi",
         "tag":"<figure>",
         "grupo":"Agrupación",
@@ -280,6 +305,8 @@
     },
     {
         "numero": "20",
+        "col":"4",
+        "row":"6",
         "nombre":"Fc",
         "tag":"<figcaption>",
         "grupo":"Agrupación",
@@ -294,6 +321,8 @@
     },
     {
         "numero": "21",
+        "col":"4",
+        "row":"7",
         "nombre":"Dv",
         "tag":"<div>",
         "grupo":"Agrupación",
@@ -308,6 +337,8 @@
     },
     {
         "numero": "22",
+        "col":"5",
+        "row":"4",
         "nombre":"Mn",
         "tag":"<main>",
         "grupo":"Agrupación",
@@ -322,6 +353,8 @@
     },
     {
         "numero": "23",
+        "col":"5",
+        "row":"5",
         "nombre":"A",
         "tag":"<a>",
         "grupo":"Textual",
@@ -336,6 +369,8 @@
     },
     {
         "numero": "24",
+        "col":"5",
+        "row":"6",
         "nombre":"Em",
         "tag":"<em>",
         "grupo":"Textual",
@@ -350,6 +385,8 @@
     },
     {
         "numero": "25",
+        "col":"5",
+        "row":"7",
         "nombre":"Str",
         "tag":"<strong>",
         "grupo":"Textual",
@@ -364,6 +401,8 @@
     },
     {
         "numero": "26",
+        "col":"6",
+        "row":"4",
         "nombre":"Sm",
         "tag":"<small>",
         "grupo":"Textual",
@@ -378,6 +417,8 @@
     },
     {
         "numero": "27",
+        "col":"6",
+        "row":"5",
         "nombre":"S",
         "tag":"<s>",
         "grupo":"Textual",
@@ -392,6 +433,8 @@
     },
     {
         "numero": "28",
+        "col":"6",
+        "row":"6",
         "nombre":"Ci",
         "tag":"<cite>",
         "grupo":"Textual",
@@ -406,6 +449,8 @@
     },
     {
         "numero": "29",
+        "col":"6",
+        "row":"7",
         "nombre":"Q",
         "tag":"<q>",
         "grupo":"Textual",
@@ -420,6 +465,8 @@
     },
     {
         "numero": "30",
+        "col":"7",
+        "row":"4",
         "nombre":"Dfn",
         "tag":"<dfn>",
         "grupo":"Textual",
@@ -434,6 +481,8 @@
     },
     {
         "numero": "31",
+        "col":"7",
+        "row":"5",
         "nombre":"Ab",
         "tag":"<abbr>",
         "grupo":"Textual",
@@ -448,6 +497,8 @@
     },
     {
         "numero": "32",
+        "col":"7",
+        "row":"6",
         "nombre":"Da",
         "tag":"<data>",
         "grupo":"Textual",
@@ -462,6 +513,8 @@
     },
     {
         "numero": "33",
+        "col":"7",
+        "row":"7",
         "nombre":"Tim",
         "tag":"<time>",
         "grupo":"Textual",
@@ -476,6 +529,8 @@
     },
     {
         "numero": "34",
+        "col":"8",
+        "row":"4",
         "nombre":"Co",
         "tag":"<code>",
         "grupo":"Textual",
@@ -490,6 +545,8 @@
     },
     {
         "numero": "35",
+        "col":"8",
+        "row":"5",
         "nombre":"Va",
         "tag":"<var>",
         "grupo":"Textual",
@@ -504,6 +561,8 @@
     },
     {
         "numero": "36",
+        "col":"8",
+        "row":"6",
         "nombre":"Sa",
         "tag":"<samp>",
         "grupo":"Textual",
@@ -518,6 +577,8 @@
     },
     {
         "numero": "37",
+        "col":"8",
+        "row":"7",
         "nombre":"Kb",
         "tag":"<kbd>",
         "grupo":"Textual",
@@ -532,6 +593,8 @@
     },
     {
         "numero": "38",
+        "col":"9",
+        "row":"4",
         "nombre":"Sub",
         "tag":"<sub>",
         "grupo":"Textual",
@@ -546,6 +609,8 @@
     },
     {
         "numero": "39",
+        "col":"9",
+        "row":"5",
         "nombre":"Sup",
         "tag":"<sup>",
         "grupo":"Textual",
@@ -560,6 +625,8 @@
     },
     {
         "numero": "40",
+        "col":"9",
+        "row":"6",
         "nombre":"I",
         "tag":"<i>",
         "grupo":"Textual",
@@ -574,6 +641,8 @@
     },
     {
         "numero": "41",
+        "col":"9",
+        "row":"7",
         "nombre":"B",
         "tag":"<b>",
         "grupo":"Textual",
@@ -588,6 +657,8 @@
     },
     {
         "numero": "42",
+        "col":"10",
+        "row":"2",
         "nombre":"U",
         "tag":"<u>",
         "grupo":"Textual",
@@ -602,6 +673,8 @@
     },
     {
         "numero": "43",
+        "col":"10",
+        "row":"3",
         "nombre":"Mk",
         "tag":"<mark>",
         "grupo":"Textual",
@@ -616,6 +689,8 @@
     },
     {
         "numero": "44",
+        "col":"10",
+        "row":"4",
         "nombre":"Sp",
         "tag":"<span>",
         "grupo":"Textual",
@@ -630,6 +705,8 @@
     },
     {
         "numero": "45",
+        "col":"10",
+        "row":"5",
         "nombre":"Br",
         "tag":"<br>",
         "grupo":"Textual",
@@ -644,6 +721,8 @@
     },
     {
         "numero": "46",
+        "col":"10",
+        "row":"6",
         "nombre":"Wbr",
         "tag":"<wbr>",
         "grupo":"Textual",
@@ -658,6 +737,8 @@
     },
     {
         "numero": "47",
+        "col":"10",
+        "row":"7",
         "nombre":"Img",
         "tag":"<img>",
         "grupo":"Multimedia",
@@ -672,6 +753,8 @@
     },
     {
         "numero": "48",
+        "col":"11",
+        "row":"2",
         "nombre":"Pic",
         "tag":"<picture>",
         "grupo":"Multimedia",
@@ -686,6 +769,8 @@
     },
     {
         "numero": "49",
+        "col":"11",
+        "row":"3",
         "nombre":"Ifr",
         "tag":"<iframe>",
         "grupo":"Multimedia",
@@ -700,6 +785,8 @@
     },
     {
         "numero": "50",
+        "col":"11",
+        "row":"4",
         "nombre":"Emb",
         "tag":"<embed>",
         "grupo":"Multimedia",
@@ -714,6 +801,8 @@
     },
     {
         "numero": "51",
+        "col":"11",
+        "row":"5",
         "nombre":"Obj",
         "tag":"<object>",
         "grupo":"Multimedia",
@@ -728,6 +817,8 @@
     },
     {
         "numero": "52",
+        "col":"11",
+        "row":"6",
         "nombre":"Par",
         "tag":"<param>",
         "grupo":"Multimedia",
@@ -742,6 +833,8 @@
     },
     {
         "numero": "53",
+        "col":"11",
+        "row":"7",
         "nombre":"Vi",
         "tag":"<video>",
         "grupo":"Multimedia",
@@ -756,6 +849,8 @@
     },
     {
         "numero": "54",
+        "col":"12",
+        "row":"2",
         "nombre":"Au",
         "tag":"<audio>",
         "grupo":"Multimedia",
@@ -770,6 +865,8 @@
     },
     {
         "numero": "55",
+        "col":"12",
+        "row":"3",
         "nombre":"Src",
         "tag":"<source>",
         "grupo":"Multimedia",
@@ -784,6 +881,8 @@
     },
     {
         "numero": "56",
+        "col":"12",
+        "row":"4",
         "nombre":"Trk",
         "tag":"<track>",
         "grupo":"Multimedia",
@@ -798,6 +897,8 @@
     },
     {
         "numero": "57",
+        "col":"12",
+        "row":"5",
         "nombre":"Map",
         "tag":"<map>",
         "grupo":"Multimedia",
@@ -812,6 +913,8 @@
     },
     {
         "numero": "58",
+        "col":"12",
+        "row":"6",
         "nombre":"Ar",
         "tag":"<area>",
         "grupo":"Multimedia",
@@ -826,6 +929,8 @@
     },
     {
         "numero": "59",
+        "col":"12",
+        "row":"7",
         "nombre":"Tb",
         "tag":"<table>",
         "grupo":"Tablas",
@@ -840,6 +945,8 @@
     },
     {
         "numero": "60",
+        "col":"13",
+        "row":"2",
         "nombre":"Cap",
         "tag":"<caption>",
         "grupo":"Tablas",
@@ -854,6 +961,8 @@
     },
     {
         "numero": "61",
+        "col":"13",
+        "row":"3",
         "nombre":"Cg",
         "tag":"<colgroup>",
         "grupo":"Tablas",
@@ -868,6 +977,8 @@
     },
     {
         "numero": "62",
+        "col":"13",
+        "row":"4",
         "nombre":"Col",
         "tag":"<col>",
         "grupo":"Tablas",
@@ -882,6 +993,8 @@
     },
     {
         "numero": "63",
+        "col":"13",
+        "row":"5",
         "nombre":"Tbd",
         "tag":"<tbody>",
         "grupo":"Tablas",
@@ -896,6 +1009,8 @@
     },
     {
         "numero": "64",
+        "col":"13",
+        "row":"6",
         "nombre":"Thd",
         "tag":"<thead>",
         "grupo":"Tablas",
@@ -910,6 +1025,8 @@
     },
     {
         "numero": "65",
+        "col":"13",
+        "row":"7",
         "nombre":"Tft",
         "tag":"<tfoot>",
         "grupo":"Tablas",
@@ -924,6 +1041,8 @@
     },
     {
         "numero": "66",
+        "col":"14",
+        "row":"2",
         "nombre":"Tr",
         "tag":"<tr>",
         "grupo":"Tablas",
@@ -938,6 +1057,8 @@
     },
     {
         "numero": "67",
+        "col":"14",
+        "row":"3",
         "nombre":"Th",
         "tag":"<th>",
         "grupo":"Tablas",
@@ -952,6 +1073,8 @@
     },
     {
         "numero": "68",
+        "col":"14",
+        "row":"4",
         "nombre":"Td",
         "tag":"<td>",
         "grupo":"Tablas",
@@ -966,6 +1089,8 @@
     },
     {
         "numero": "69",
+        "col":"14",
+        "row":"5",
         "nombre":"Frm",
         "tag":"<form>",
         "grupo":"formulario",
@@ -980,6 +1105,8 @@
     },
     {
         "numero": "70",
+        "col":"14",
+        "row":"6",
         "nombre":"Lab",
         "tag":"<label>",
         "grupo":"formulario",
@@ -994,6 +1121,8 @@
     },
     {
         "numero": "71",
+        "col":"14",
+        "row":"7",
         "nombre":"In",
         "tag":"<input>",
         "grupo":"formulario",
@@ -1008,6 +1137,8 @@
     },
     {
         "numero": "72",
+        "col":"15",
+        "row":"2",
         "nombre":"But",
         "tag":"<button>",
         "grupo":"formulario",
@@ -1022,6 +1153,8 @@
     },
     {
         "numero": "73",
+        "col":"15",
+        "row":"3",
         "nombre":"Sel",
         "tag":"<select>",
         "grupo":"formulario",
@@ -1036,6 +1169,8 @@
     },
     {
         "numero": "74",
+        "col":"15",
+        "row":"4",
         "nombre":"Dtl",
         "tag":"<datalist>",
         "grupo":"formulario",
@@ -1050,6 +1185,8 @@
     },
     {
         "numero": "75",
+        "col":"15",
+        "row":"5",
         "nombre":"Og",
         "tag":"<optgroup>",
         "grupo":"formulario",
@@ -1064,6 +1201,8 @@
     },
     {
         "numero": "76",
+        "col":"15",
+        "row":"6",
         "nombre":"O",
         "tag":"<option>",
         "grupo":"formulario",
@@ -1078,6 +1217,8 @@
     },
     {
         "numero": "77",
+        "col":"15",
+        "row":"7",
         "nombre":"Ta",
         "tag":"<textarea>",
         "grupo":"formulario",
@@ -1092,6 +1233,8 @@
     },
     {
         "numero": "78",
+        "col":"16",
+        "row":"2",
         "nombre":"Out",
         "tag":"<output>",
         "grupo":"formulario",
@@ -1106,6 +1249,8 @@
     },
     {
         "numero": "79",
+        "col":"16",
+        "row":"3",
         "nombre":"Prg",
         "tag":"<progress>",
         "grupo":"formulario",
@@ -1120,6 +1265,8 @@
     },
     {
         "numero": "80",
+        "col":"16",
+        "row":"4",
         "nombre":"Met",
         "tag":"<meter>",
         "grupo":"formulario",
@@ -1134,6 +1281,8 @@
     },
     {
         "numero": "81",
+        "col":"16",
+        "row":"5",
         "nombre":"Fs",
         "tag":"<fieldset>",
         "grupo":"formulario",
@@ -1148,6 +1297,8 @@
     },
     {
         "numero": "82",
+        "col":"16",
+        "row":"6",
         "nombre":"Le",
         "tag":"<legend>",
         "grupo":"formulario",
@@ -1162,6 +1313,8 @@
     },  
     {
         "numero": "83",
+        "col":"16",
+        "row":"7",
         "nombre":"Sc",
         "tag":"<script>",
         "grupo":"scripting",
@@ -1177,6 +1330,8 @@
     
     {
         "numero": "84",
+        "col":"17",
+        "row":"1",
         "nombre":"Nsc",
         "tag":"<noscript>",
         "grupo":"scripting",
@@ -1191,6 +1346,8 @@
     },
     {
         "numero": "85",
+        "col":"17",
+        "row":"2",
         "nombre":"Tp",
         "tag":"<template>",
         "grupo":"scripting",
@@ -1205,6 +1362,8 @@
     },
     {
         "numero": "86",
+        "col":"17",
+        "row":"3",
         "nombre":"Sl",
         "tag":"<slot>",
         "grupo":"scripting",
@@ -1219,6 +1378,8 @@
     },
     {
         "numero": "87",
+        "col":"17",
+        "row":"4",
         "nombre":"Cv",
         "tag":"<canvas>",
         "grupo":"scripting",
@@ -1233,6 +1394,8 @@
     },
     {
         "numero": "88",
+        "col":"17",
+        "row":"5",
         "nombre":"Det",
         "tag":"<details>",
         "grupo":"interactivas",
@@ -1247,6 +1410,8 @@
     },
     {
         "numero": "89",
+        "col":"17",
+        "row":"6",
         "nombre":"Sum",
         "tag":"<summary>",
         "grupo":"interactivas",
@@ -1261,6 +1426,8 @@
     },
     {
         "numero": "90",
+        "col":"17",
+        "row":"7",
         "nombre":"Dia",
         "tag":"<dialog>",
         "grupo":"interactivas",
@@ -1275,6 +1442,8 @@
     },
     {
         "numero": "91",
+        "col":"1",
+        "row":"8",
         "nombre":"Art",
         "tag":"<article>",
         "grupo":"semánticas",
@@ -1289,6 +1458,8 @@
     },
     {
         "numero": "92",
+        "col":"1",
+        "row":"9",
         "nombre":"Sec",
         "tag":"<section>",
         "grupo":"semánticas",
@@ -1303,6 +1474,8 @@
     },
     {
         "numero": "93",
+        "col":"2",
+        "row":"8",
         "nombre":"Nav",
         "tag":"<nav>",
         "grupo":"semánticas",
@@ -1317,6 +1490,8 @@
     },
     {
         "numero": "94",
+        "col":"2",
+        "row":"9",
         "nombre":"Hg",
         "tag":"<hgroup>",
         "grupo":"semánticas",
@@ -1331,6 +1506,8 @@
     },
     {
         "numero": "95",
+        "col":"3",
+        "row":"8",
         "nombre":"H1",
         "tag":"<h1>",
         "grupo":"semánticas",
@@ -1345,6 +1522,8 @@
     },
     {
         "numero": "96",
+        "col":"3",
+        "row":"9",
         "nombre":"H2",
         "tag":"<h2>",
         "grupo":"semánticas",
@@ -1359,6 +1538,8 @@
     },
     {
         "numero": "97",
+        "col":"4",
+        "row":"8",
         "nombre":"H3",
         "tag":"<h3>",
         "grupo":"semánticas",
@@ -1373,6 +1554,8 @@
     },
     {
         "numero": "98",
+        "col":"4",
+        "row":"9",
         "nombre":"H4",
         "tag":"<h4>",
         "grupo":"semánticas",
@@ -1387,6 +1570,8 @@
     },
     {
         "numero": "99",
+        "col":"5",
+        "row":"8",
         "nombre":"H5",
         "tag":"<h5>",
         "grupo":"semánticas",
@@ -1401,6 +1586,8 @@
     },
     {
         "numero": "100",
+        "col":"5",
+        "row":"9",
         "nombre":"H6",
         "tag":"<h6>",
         "grupo":"semánticas",
@@ -1415,6 +1602,8 @@
     },
     {
         "numero": "101",
+        "col":"6",
+        "row":"8",
         "nombre":"Sr",
         "tag":"<search>",
         "grupo":"semánticas",
@@ -1429,6 +1618,8 @@
     },
     {
         "numero": "102",
+        "col":"6",
+        "row":"9",
         "nombre":"Hdr",
         "tag":"<header>",
         "grupo":"semánticas",
@@ -1443,6 +1634,8 @@
     },
     {
         "numero": "103",
+        "col":"7",
+        "row":"8",
         "nombre":"Ftr",
         "tag":"<footer>",
         "grupo":"semánticas",
@@ -1457,6 +1650,8 @@
     },
     {
         "numero": "104",
+        "col":"7",
+        "row":"9",
         "nombre":"Asd",
         "tag":"<aside>",
         "grupo":"semánticas",
@@ -1471,6 +1666,8 @@
     },
     {
         "numero": "105",
+        "col":"8",
+        "row":"8",
         "nombre":"Add",
         "tag":"<address>",
         "grupo":"semánticas",
@@ -1485,6 +1682,8 @@
     },
     {
         "numero": "106",
+        "col":"8",
+        "row":"9",
         "nombre":"Rub",
         "tag":"<ruby>",
         "grupo":"ideogramáticas",
@@ -1499,6 +1698,8 @@
     },
     {
         "numero": "107",
+        "col":"9",
+        "row":"8",
         "nombre":"Rb",
         "tag":"<rb>",
         "grupo":"ideogramáticas",
@@ -1513,6 +1714,8 @@
     },
     {
         "numero": "108",
+        "col":"9",
+        "row":"9",
         "nombre":"Rt",
         "tag":"<rt>",
         "grupo":"ideogramáticas",
@@ -1527,6 +1730,8 @@
     },
     {
         "numero": "109",
+        "col":"10",
+        "row":"8",
         "nombre":"Rtc",
         "tag":"<rtc>",
         "grupo":"ideogramáticas",
@@ -1541,6 +1746,8 @@
     },
     {
         "numero": "110",
+        "col":"10",
+        "row":"9",
         "nombre":"Rp",
         "tag":"<rp>",
         "grupo":"ideogramáticas",
@@ -1555,6 +1762,8 @@
     },
     {
         "numero": "111",
+        "col":"11",
+        "row":"8",
         "nombre":"Bd",
         "tag":"<bdi>",
         "grupo":"ideogramáticas",
@@ -1569,6 +1778,8 @@
     },
     {
         "numero": "112",
+        "col":"11",
+        "row":"9",
         "nombre":"Bdo",
         "tag":"<bdo>",
         "grupo":"ideogramáticas",
@@ -1583,6 +1794,8 @@
     },
     {
         "numero": "113",
+        "col":"12",
+        "row":"8",
         "nombre":"Ins",
         "tag":"<ins>",
         "grupo":"edición",
@@ -1597,6 +1810,8 @@
     },
     {
         "numero": "114",
+        "col":"12",
+        "row":"9",
         "nombre":"Del",
         "tag":"<del>",
         "grupo":"edición",
@@ -1611,6 +1826,8 @@
     },
     {
         "numero": "115",
+        "col":"13",
+        "row":"8",
         "nombre":"Nob",
         "tag":"<noembed>",
         "grupo":"obsoletas",
@@ -1625,6 +1842,8 @@
     },
     {
         "numero": "116",
+        "col":"13",
+        "row":"9",
         "nombre":"Acr",
         "tag":"<acronym>",
         "grupo":"obsoletas",
@@ -1639,6 +1858,8 @@
     },
     {
         "numero": "117",
+        "col":"14",
+        "row":"8",
         "nombre":"Fr",
         "tag":"<frame>",
         "grupo":"obsoletas",
@@ -1653,6 +1874,8 @@
     },
     {
         "numero": "118",
+        "col":"14",
+        "row":"9",
         "nombre":"Frs",
         "tag":"<frameset>",
         "grupo":"obsoletas",
@@ -1667,6 +1890,8 @@
     },
     {
         "numero": "119",
+        "col":"15",
+        "row":"8",
         "nombre":"Nfr",
         "tag":"<noframes>",
         "grupo":"obsoletas",
@@ -1681,6 +1906,8 @@
     },
     {
         "numero": "120",
+        "col":"15",
+        "row":"9",
         "nombre":"Fnt",
         "tag":"<font>",
         "grupo":"obsoletas",
@@ -1695,6 +1922,8 @@
     },
     {
         "numero": "121",
+        "col":"16",
+        "row":"8",
         "nombre":"Big",
         "tag":"<big>",
         "grupo":"obsoletas",
@@ -1709,6 +1938,8 @@
     },
     {
         "numero": "122",
+        "col":"16",
+        "row":"9",
         "nombre":"Dir",
         "tag":"<dir>",
         "grupo":"obsoletas",
@@ -1723,6 +1954,8 @@
     },
     {
         "numero": "123",
+        "col":"17",
+        "row":"8",
         "nombre":"Cen",
         "tag":"<center>",
         "grupo":"obsoletas",
@@ -1737,6 +1970,8 @@
     },
     {
         "numero": "124",
+        "col":"17",
+        "row":"9",
         "nombre":"Mrq",
         "tag":"<marquee>",
         "grupo":"obsoletas",
