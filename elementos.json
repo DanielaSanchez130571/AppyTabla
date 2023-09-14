@@ -76,8 +76,8 @@
     },
     {
         "numero": "6",
-        "col":"6",
-        "col":"7",
+        "col":"2",
+        "row":"2",
         "nombre": "Lk",
         "tag": "<link>",
         "grupo": "Metadatos",
@@ -93,6 +93,7 @@
     {
         "numero": "7",
         "col":"8",
+        "row":"1",
         "nombre":"Mt",
         "tag":"<meta>",
         "grupo":"Metadatos",
