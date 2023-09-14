@@ -1,6 +1,7 @@
 [
     {
         "numero": "1",
+        "col":"1",
         "nombre": "H",
         "tag": "<html>",
         "grupo": "Documento",
@@ -15,6 +16,7 @@
     },
     {
         "numero": "2",
+        "col":"2",
         "nombre": "Hd",
         "tag": "<head>",
         "grupo": "Documento",
@@ -29,6 +31,7 @@
     },
     {
         "numero": "3",
+        "col":"3",
         "nombre": "Bd",
         "tag": "<body>",
         "grupo": "Documento",
@@ -43,6 +46,7 @@
     },
     {
         "numero": "4",
+        "col":"4",
         "nombre": "Ti",
         "tag": "<title>",
         "grupo": "Metadatos",
@@ -57,6 +61,7 @@
     },
     {
         "numero": "5",
+        "col":"5",
         "nombre": "Bs",
         "tag": "<base>",
         "grupo": "Metadatos",
@@ -71,6 +76,8 @@
     },
     {
         "numero": "6",
+        "col":"6",
+        "col":"7",
         "nombre": "Lk",
         "tag": "<link>",
         "grupo": "Metadatos",
@@ -85,6 +92,7 @@
     },
     {
         "numero": "7",
+        "col":"8",
         "nombre":"Mt",
         "tag":"<meta>",
         "grupo":"Metadatos",
@@ -99,6 +107,7 @@
     },
     {
         "numero": "8",
+        "col":"9",
         "nombre":"St",
         "tag":"<style>",
         "grupo":"Metadatos",
@@ -113,6 +122,7 @@
     },
     {
         "numero": "9",
+        "col":"10",
         "nombre":"Ol",
         "tag":"<ol>",
         "grupo":"Lista",
