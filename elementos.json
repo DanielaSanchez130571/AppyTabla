@@ -1533,7 +1533,7 @@
     {
         "numero": "91",
         "col":"1",
-        "row":"8",
+        "row":"9",
         "nombre":"Art",
         "tag":"<article>",
         "grupo":"semánticas",
@@ -1550,7 +1550,7 @@
     {
         "numero": "92",
         "col":"1",
-        "row":"9",
+        "row":"10",
         "nombre":"Sec",
         "tag":"<section>",
         "grupo":"semánticas",
@@ -1567,7 +1567,7 @@
     {
         "numero": "93",
         "col":"2",
-        "row":"8",
+        "row":"9",
         "nombre":"Nav",
         "tag":"<nav>",
         "grupo":"semánticas",
@@ -1584,7 +1584,7 @@
     {
         "numero": "94",
         "col":"2",
-        "row":"9",
+        "row":"10",
         "nombre":"Hg",
         "tag":"<hgroup>",
         "grupo":"semánticas",
@@ -1601,7 +1601,7 @@
     {
         "numero": "95",
         "col":"3",
-        "row":"8",
+        "row":"9",
         "nombre":"H1",
         "tag":"<h1>",
         "grupo":"semánticas",
@@ -1618,7 +1618,7 @@
     {
         "numero": "96",
         "col":"3",
-        "row":"9",
+        "row":"10",
         "nombre":"H2",
         "tag":"<h2>",
         "grupo":"semánticas",
@@ -1635,7 +1635,7 @@
     {
         "numero": "97",
         "col":"4",
-        "row":"8",
+        "row":"9",
         "nombre":"H3",
         "tag":"<h3>",
         "grupo":"semánticas",
@@ -1652,7 +1652,7 @@
     {
         "numero": "98",
         "col":"4",
-        "row":"9",
+        "row":"10",
         "nombre":"H4",
         "tag":"<h4>",
         "grupo":"semánticas",
@@ -1669,7 +1669,7 @@
     {
         "numero": "99",
         "col":"5",
-        "row":"8",
+        "row":"9",
         "nombre":"H5",
         "tag":"<h5>",
         "grupo":"semánticas",
@@ -1686,7 +1686,7 @@
     {
         "numero": "100",
         "col":"5",
-        "row":"9",
+        "row":"10",
         "nombre":"H6",
         "tag":"<h6>",
         "grupo":"semánticas",
@@ -1703,7 +1703,7 @@
     {
         "numero": "101",
         "col":"6",
-        "row":"8",
+        "row":"9",
         "nombre":"Sr",
         "tag":"<search>",
         "grupo":"semánticas",
@@ -1720,7 +1720,7 @@
     {
         "numero": "102",
         "col":"6",
-        "row":"9",
+        "row":"10",
         "nombre":"Hdr",
         "tag":"<header>",
         "grupo":"semánticas",
@@ -1737,7 +1737,7 @@
     {
         "numero": "103",
         "col":"7",
-        "row":"8",
+        "row":"9",
         "nombre":"Ftr",
         "tag":"<footer>",
         "grupo":"semánticas",
@@ -1754,7 +1754,7 @@
     {
         "numero": "104",
         "col":"7",
-        "row":"9",
+        "row":"10",
         "nombre":"Asd",
         "tag":"<aside>",
         "grupo":"semánticas",
@@ -1771,7 +1771,7 @@
     {
         "numero": "105",
         "col":"8",
-        "row":"8",
+        "row":"9",
         "nombre":"Add",
         "tag":"<address>",
         "grupo":"semánticas",
@@ -1788,11 +1788,11 @@
     {
         "numero": "106",
         "col":"8",
-        "row":"9",
+        "row":"10",
         "nombre":"Rub",
         "tag":"<ruby>",
         "grupo":"ideogramáticas",
-        "clasificacion":"semanticaC",
+        "clasificacion":"ideograficaC",
         "color":"#CD7C3B",
         "info":{
             "advertencia":"",
@@ -1805,7 +1805,7 @@
     {
         "numero": "107",
         "col":"9",
-        "row":"8",
+        "row":"9",
         "nombre":"Rb",
         "tag":"<rb>",
         "grupo":"ideogramáticas",
@@ -1822,7 +1822,7 @@
     {
         "numero": "108",
         "col":"9",
-        "row":"9",
+        "row":"10",
         "nombre":"Rt",
         "tag":"<rt>",
         "grupo":"ideogramáticas",
@@ -1839,7 +1839,7 @@
     {
         "numero": "109",
         "col":"10",
-        "row":"8",
+        "row":"9",
         "nombre":"Rtc",
         "tag":"<rtc>",
         "grupo":"ideogramáticas",
@@ -1856,7 +1856,7 @@
     {
         "numero": "110",
         "col":"10",
-        "row":"9",
+        "row":"10",
         "nombre":"Rp",
         "tag":"<rp>",
         "grupo":"ideogramáticas",
@@ -1873,7 +1873,7 @@
     {
         "numero": "111",
         "col":"11",
-        "row":"8",
+        "row":"9",
         "nombre":"Bd",
         "tag":"<bdi>",
         "grupo":"ideogramáticas",
@@ -1890,7 +1890,7 @@
     {
         "numero": "112",
         "col":"11",
-        "row":"9",
+        "row":"10",
         "nombre":"Bdo",
         "tag":"<bdo>",
         "grupo":"ideogramáticas",
@@ -1907,7 +1907,7 @@
     {
         "numero": "113",
         "col":"12",
-        "row":"8",
+        "row":"9",
         "nombre":"Ins",
         "tag":"<ins>",
         "grupo":"edición",
@@ -1924,7 +1924,7 @@
     {
         "numero": "114",
         "col":"12",
-        "row":"9",
+        "row":"10",
         "nombre":"Del",
         "tag":"<del>",
         "grupo":"edición",
@@ -1941,7 +1941,7 @@
     {
         "numero": "115",
         "col":"13",
-        "row":"8",
+        "row":"9",
         "nombre":"Nob",
         "tag":"<noembed>",
         "grupo":"obsoletas",
@@ -1958,7 +1958,7 @@
     {
         "numero": "116",
         "col":"13",
-        "row":"9",
+        "row":"10",
         "nombre":"Acr",
         "tag":"<acronym>",
         "grupo":"obsoletas",
@@ -1975,7 +1975,7 @@
     {
         "numero": "117",
         "col":"14",
-        "row":"8",
+        "row":"9",
         "nombre":"Fr",
         "tag":"<frame>",
         "grupo":"obsoletas",
@@ -1992,7 +1992,7 @@
     {
         "numero": "118",
         "col":"14",
-        "row":"9",
+        "row":"10",
         "nombre":"Frs",
         "tag":"<frameset>",
         "grupo":"obsoletas",
@@ -2009,7 +2009,7 @@
     {
         "numero": "119",
         "col":"15",
-        "row":"8",
+        "row":"9",
         "nombre":"Nfr",
         "tag":"<noframes>",
         "grupo":"obsoletas",
@@ -2026,7 +2026,7 @@
     {
         "numero": "120",
         "col":"15",
-        "row":"9",
+        "row":"10",
         "nombre":"Fnt",
         "tag":"<font>",
         "grupo":"obsoletas",
@@ -2043,7 +2043,7 @@
     {
         "numero": "121",
         "col":"16",
-        "row":"8",
+        "row":"9",
         "nombre":"Big",
         "tag":"<big>",
         "grupo":"obsoletas",
@@ -2060,7 +2060,7 @@
     {
         "numero": "122",
         "col":"16",
-        "row":"9",
+        "row":"10",
         "nombre":"Dir",
         "tag":"<dir>",
         "grupo":"obsoletas",
@@ -2077,7 +2077,7 @@
     {
         "numero": "123",
         "col":"17",
-        "row":"8",
+        "row":"9",
         "nombre":"Cen",
         "tag":"<center>",
         "grupo":"obsoletas",
@@ -2094,7 +2094,7 @@
     {
         "numero": "124",
         "col":"17",
-        "row":"9",
+        "row":"10",
         "nombre":"Mrq",
         "tag":"<marquee>",
         "grupo":"obsoletas",
