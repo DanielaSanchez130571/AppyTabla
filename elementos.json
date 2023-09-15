@@ -380,7 +380,7 @@
         "nombre":"A",
         "tag":"<a>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -397,7 +397,7 @@
         "nombre":"Em",
         "tag":"<em>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -414,7 +414,7 @@
         "nombre":"Str",
         "tag":"<strong>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -431,7 +431,7 @@
         "nombre":"Sm",
         "tag":"<small>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -448,7 +448,7 @@
         "nombre":"S",
         "tag":"<s>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -465,7 +465,7 @@
         "nombre":"Ci",
         "tag":"<cite>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -482,7 +482,7 @@
         "nombre":"Q",
         "tag":"<q>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -499,7 +499,7 @@
         "nombre":"Dfn",
         "tag":"<dfn>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -516,7 +516,7 @@
         "nombre":"Ab",
         "tag":"<abbr>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -533,7 +533,7 @@
         "nombre":"Da",
         "tag":"<data>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -550,7 +550,7 @@
         "nombre":"Tim",
         "tag":"<time>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -567,7 +567,7 @@
         "nombre":"Co",
         "tag":"<code>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -584,7 +584,7 @@
         "nombre":"Va",
         "tag":"<var>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -601,7 +601,7 @@
         "nombre":"Sa",
         "tag":"<samp>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -618,7 +618,7 @@
         "nombre":"Kb",
         "tag":"<kbd>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -635,7 +635,7 @@
         "nombre":"Sub",
         "tag":"<sub>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -652,7 +652,7 @@
         "nombre":"Sup",
         "tag":"<sup>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -669,7 +669,7 @@
         "nombre":"I",
         "tag":"<i>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -686,7 +686,7 @@
         "nombre":"B",
         "tag":"<b>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -703,7 +703,7 @@
         "nombre":"U",
         "tag":"<u>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -720,7 +720,7 @@
         "nombre":"Mk",
         "tag":"<mark>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -737,7 +737,7 @@
         "nombre":"Sp",
         "tag":"<span>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -754,7 +754,7 @@
         "nombre":"Br",
         "tag":"<br>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
@@ -771,7 +771,7 @@
         "nombre":"Wbr",
         "tag":"<wbr>",
         "grupo":"Textual",
-        "clasificacion":"textualeC",
+        "clasificacion":"textualC",
         "color":"#DE0063",
         "info":{
             "advertencia":"",
