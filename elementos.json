@@ -11,7 +11,7 @@
         "info": {
             "advertencia": "",
             "descripción": "El elemento `<html>` representa la raíz de un documento HTML.",
-            "ejemplo": "<!DOCTYPE html>\n\t<html>\n\t\t<head>\n\t\t\t<title>Título del Documento</title>\n\t\t</head>\n\t\t<body>\n\t\t\t<h1>Hola, mundo!</h1>\n\t\t</body>\n\t</html>",
+            "ejemplo": "<!DOCTYPE html>",
             "interfazDOM": "La interfaz HTMLHtmlElement sirve como nodo raíz para un documento HTML determinado. Este objeto hereda las propiedades y métodos descritos en la interfaz HTMLElement. Puedes recuperar el objeto HTMLHtmlElement de un documento determinado leyendo el valor de la propiedad document.documentElement.",
             "URL": "https://developer.mozilla.org/es/docs/Web/HTML/Element/html"
         }
@@ -28,7 +28,7 @@
         "info": {
             "advertencia": "",
             "descripción": "El elemento HTML `<head>` provee información general (metadatos) acerca del documento, incluyendo su título y enlaces a scripts y hojas de estilos.",
-            "ejemplo": "<head> <title> Título del documento </title> </head>",
+            "ejemplo": "<head>\n\t<title>\n\tTítulo del documento\n\t</title>\n</head>",
             "interfazDOM": "La interfaz HTMLHeadElement contiene la información descriptiva o metadata para un documento. Este objeto hereda las propiedades y métodos descritos en la interfaz HTMLElement.",
             "URL": "https://developer.mozilla.org/es/docs/Web/HTML/Element/head"
         }
